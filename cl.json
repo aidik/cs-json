@@ -8,7 +8,7 @@
   },
   {
     "imgName": "Acer_Synergy.png",
-    "client": "Acer_Synergy",
+    "client": "Acer Synergy",
     "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Acer_Synergy.png",
     "category": "High Tech",
     "categoryClass": "tech"
@@ -78,7 +78,7 @@
   },
   {
     "imgName": "Aruba_Networks.png",
-    "client": "Aruba_Networks",
+    "client": "Aruba Networks",
     "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Aruba_Networks.png",
     "category": "High Tech",
     "categoryClass": "tech"
@@ -155,7 +155,7 @@
   },
   {
     "imgName": "Cancer Research and Biostatistics.jpeg",
-    "client": "Cancer Research and Biostatistics.jpeg",
+    "client": "Cancer Research and Biostatistics",
     "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Cancer-Research-and-Biostatistics.jpeg",
     "category": "Healthcare",
     "categoryClass": "health"
@@ -259,9 +259,9 @@
     "categoryClass": "secdef"
   },
   {
-    "imgName": "Euronet - Formerly Fastmatch.png",
-    "client": "Euronet - Formerly Fastmatch",
-    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Euronet---Formerly-Fastmatch.png",
+    "imgName": "Euronet-Formerly-Fastmatch.png",
+    "client": "Euronext",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Euronet-Formerly-Fastmatch.png",
     "category": "Financial",
     "categoryClass": "fin"
   },
@@ -414,7 +414,7 @@
   },
   {
     "imgName": "Juniper_Network.png",
-    "client": "Juniper_Network",
+    "client": "Juniper Network",
     "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Juniper_Network.png",
     "category": "High Tech",
     "categoryClass": "tech"
@@ -428,7 +428,7 @@
   },
   {
     "imgName": "KFL_A Public Health.png",
-    "client": "KFL_A Public Health",
+    "client": "KFL&A Public Health",
     "URL": "https://www.truenas.com/wp-content/uploads/2021/10/KFL_A-Public-Health.png",
     "category": "Healthcare",
     "categoryClass": "health"
