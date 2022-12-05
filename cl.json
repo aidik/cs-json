@@ -357,9 +357,9 @@
     "categoryClass": "health"
   },
   {
-    "imgName": "HealthSpaces.png",
-    "client": "HealthSpaces",
-    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/HealthSpaces.png",
+    "imgName": "Healthspaces_Logo.png",
+    "client": "Healthspaces_Logo",
+    "URL": "https://www.truenas.com/wp-content/uploads/2022/11/Healthspaces_Logo.png",
     "category": "Healthcare",
     "categoryClass": "health"
   },
@@ -875,9 +875,9 @@
     "categoryClass": "edu"
   },
   {
-    "imgName": "Western Digital.png",
-    "client": "Western Digital",
-    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Western-Digital.png",
+    "imgName": "WD.png",
+    "client": "WD",
+    "URL": "https://www.truenas.com/wp-content/uploads/2022/11/WD.png",
     "category": "High Tech",
     "categoryClass": "tech"
   },
