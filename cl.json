@@ -358,7 +358,7 @@
   },
   {
     "imgName": "Healthspaces_Logo.png",
-    "client": "Healthspaces_Logo",
+    "client": "HealthSpaces",
     "URL": "https://www.truenas.com/wp-content/uploads/2022/11/Healthspaces_Logo.png",
     "category": "Healthcare",
     "categoryClass": "health"
@@ -876,7 +876,7 @@
   },
   {
     "imgName": "WD.png",
-    "client": "WD",
+    "client": "Western Digital",
     "URL": "https://www.truenas.com/wp-content/uploads/2022/11/WD.png",
     "category": "High Tech",
     "categoryClass": "tech"
