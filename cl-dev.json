@@ -51,8 +51,8 @@
     "imgName": "Adobe.png",
     "client": "Adobe",
     "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Adobe.png",
-    "category": "Media & Entertainment",
-    "categoryClass": "enter",
+    "category": "Other",
+    "categoryClass": "other",
     "": ""
   },
   {
@@ -499,8 +499,8 @@
     "imgName": "Microsoft-scaled.jpg",
     "client": "Microsoft",
     "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Microsoft-scaled.jpg",
-    "category": "Media & Entertainment",
-    "categoryClass": "enter",
+    "category": "Other",
+    "categoryClass": "other",
     "": ""
   },
   {
@@ -563,8 +563,8 @@
     "imgName": "NVIDIA.png",
     "client": "NVIDIA",
     "URL": "https://www.truenas.com/wp-content/uploads/2023/07/NVIDIA.png",
-    "category": "Gaming",
-    "categoryClass": "gaming",
+    "category": "Other",
+    "categoryClass": "other",
     "": ""
   },
   {
@@ -795,8 +795,8 @@
     "imgName": "VMWare.png",
     "client": "VMWare",
     "URL": "https://www.truenas.com/wp-content/uploads/2023/07/VMWare.png",
-    "category": "Service Provider",
-    "categoryClass": "service",
+    "category": "Other",
+    "categoryClass": "other",
     "": ""
   },
   {
