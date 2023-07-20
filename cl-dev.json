@@ -1,1640 +1,1647 @@
 [
   {
-    "1stAve Machine.png": "A10networks.png",
-    "1stAve Machine": "A10networks",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/A10networks.png",
-    "Entertainment": "Manufacturing",
-    "enter": "manu"
+    "imgName": "1stAve Machine.png",
+    "client": "1stAve Machine",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png",
+    "category": "Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "Abbott-Laboratories.png",
-    "1stAve Machine": "Abbott-Laboratories",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Abbott-Laboratories.png",
-    "Entertainment": "Research",
-    "enter": "research"
+    "imgName": "A10networks.png",
+    "client": "A10networks",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/A10networks.png",
+    "category": "Manufacturing",
+    "categoryClass": "manu"
   },
   {
-    "1stAve Machine.png": "ABC-Technologies.png",
-    "1stAve Machine": "ABC-Technologies",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/ABC-Technologies.png",
-    "Entertainment": "Automotive",
-    "enter": "auto"
+    "imgName": "Abbott-Laboratories.png",
+    "client": "Abbott-Laboratories",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Abbott-Laboratories.png",
+    "category": "Research",
+    "categoryClass": "research"
   },
   {
-    "1stAve Machine.png": "Accelerate-Diagnostics.png",
-    "1stAve Machine": "Accelerate-Diagnostics",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Accelerate-Diagnostics.png",
-    "Entertainment": "Healthcare",
-    "enter": "health"
+    "imgName": "ABC-Technologies.png",
+    "client": "ABC-Technologies",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/ABC-Technologies.png",
+    "category": "Automotive",
+    "categoryClass": "auto"
   },
   {
-    "1stAve Machine.png": "Accenture.png",
-    "1stAve Machine": "Accenture",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Accenture.png",
-    "Entertainment": "Service Provider",
-    "enter": "service"
+    "imgName": "Accelerate-Diagnostics.png",
+    "client": "Accelerate-Diagnostics",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Accelerate-Diagnostics.png",
+    "category": "Healthcare",
+    "categoryClass": "health"
   },
   {
-    "1stAve Machine.png": "Acer_Synergy.png",
-    "1stAve Machine": "Acer Synergy",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Acer_Synergy.png",
-    "Entertainment": "High Tech",
-    "enter": "tech"
+    "imgName": "Accenture.png",
+    "client": "Accenture",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Accenture.png",
+    "category": "Service Provider",
+    "categoryClass": "service"
   },
   {
-    "1stAve Machine.png": "Activision-Blizzard.png",
-    "1stAve Machine": "Activision-Blizzard",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Activision-Blizzard.png",
-    "Entertainment": "Gaming",
-    "enter": "gaming"
+    "imgName": "Acer_Synergy.png",
+    "client": "Acer Synergy",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Acer_Synergy.png",
+    "category": "High Tech",
+    "categoryClass": "tech"
   },
   {
-    "1stAve Machine.png": "Adobe.png",
-    "1stAve Machine": "Adobe",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Adobe.png",
-    "Entertainment": "Media & Entertainment",
-    "enter": "enter"
+    "imgName": "Activision-Blizzard.png",
+    "client": "Activision-Blizzard",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Activision-Blizzard.png",
+    "category": "Gaming",
+    "categoryClass": "gaming"
   },
   {
-    "1stAve Machine.png": "Advantage Plus Credit Union.png",
-    "1stAve Machine": "Advantage Plus Credit Union",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Advantage-Plus-Credit-Union.png",
-    "Entertainment": "Financial",
-    "enter": "fin"
+    "imgName": "Adobe.png",
+    "client": "Adobe",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Adobe.png",
+    "category": "Media & Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "Air Force.png",
-    "1stAve Machine": "Air Force",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Air-Force.png",
-    "Entertainment": "Security and Defense",
-    "enter": "secdef"
+    "imgName": "Advantage Plus Credit Union.png",
+    "client": "Advantage Plus Credit Union",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Advantage-Plus-Credit-Union.png",
+    "category": "Financial",
+    "categoryClass": "fin"
   },
   {
-    "1stAve Machine.png": "Airways-Freight.png",
-    "1stAve Machine": "Airways-Freight",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Airways-Freight.png",
-    "Entertainment": "Other",
-    "enter": "other"
+    "imgName": "Air Force.png",
+    "client": "Air Force",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Air-Force.png",
+    "category": "Security and Defense",
+    "categoryClass": "secdef"
   },
   {
-    "1stAve Machine.png": "AJA Video Systems.png",
-    "1stAve Machine": "AJA Video Systems",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/AJA-Video-Systems.png",
-    "Entertainment": "Entertainment",
-    "enter": "enter"
+    "imgName": "Airways-Freight.png",
+    "client": "Airways-Freight",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Airways-Freight.png",
+    "category": "Other",
+    "categoryClass": "other"
   },
   {
-    "1stAve Machine.png": "Alamos-Gold.png",
-    "1stAve Machine": "Alamos-Gold",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Alamos-Gold.png",
-    "Entertainment": "Other",
-    "enter": "other"
+    "imgName": "AJA Video Systems.png",
+    "client": "AJA Video Systems",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/AJA-Video-Systems.png",
+    "category": "Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "Allegiance Health Management.png",
-    "1stAve Machine": "Allegiance Health Management",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Allegiance-Health-Management.png",
-    "Entertainment": "Healthcare",
-    "enter": "health"
+    "imgName": "Alamos-Gold.png",
+    "client": "Alamos-Gold",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Alamos-Gold.png",
+    "category": "Other",
+    "categoryClass": "other"
   },
   {
-    "1stAve Machine.png": "Allegiance-Health-Management.png",
-    "1stAve Machine": "Allegiance-Health-Management",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Allegiance-Health-Management.png",
-    "Entertainment": "Healthcare",
-    "enter": "health"
+    "imgName": "Allegiance Health Management.png",
+    "client": "Allegiance Health Management",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Allegiance-Health-Management.png",
+    "category": "Healthcare",
+    "categoryClass": "health"
   },
   {
-    "1stAve Machine.png": "Alto-Neuroscience.jpg",
-    "1stAve Machine": "Alto-Neuroscience",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Alto-Neuroscience.jpg",
-    "Entertainment": "Healthcare",
-    "enter": "health"
+    "imgName": "Allegiance-Health-Management.png",
+    "client": "Allegiance-Health-Management",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Allegiance-Health-Management.png",
+    "category": "Healthcare",
+    "categoryClass": "health"
   },
   {
-    "1stAve Machine.png": "AMC.png",
-    "1stAve Machine": "AMC",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/AMC.png",
-    "Entertainment": "Entertainment",
-    "enter": "enter"
+    "imgName": "Alto-Neuroscience.jpg",
+    "client": "Alto-Neuroscience",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Alto-Neuroscience.jpg",
+    "category": "Healthcare",
+    "categoryClass": "health"
   },
   {
-    "1stAve Machine.png": "AMD.png",
-    "1stAve Machine": "AMD",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/AMD.png",
-    "Entertainment": "High Tech",
-    "enter": "tech"
+    "imgName": "AMC.png",
+    "client": "AMC",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/AMC.png",
+    "category": "Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "American Alloy.png",
-    "1stAve Machine": "American Alloy",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/American-Alloy.png",
-    "Entertainment": "Commercial and Industrial",
-    "enter": "comm"
+    "imgName": "AMD.png",
+    "client": "AMD",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/AMD.png",
+    "category": "High Tech",
+    "categoryClass": "tech"
   },
   {
-    "1stAve Machine.png": "Amobee.png",
-    "1stAve Machine": "Amobee",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Amobee.png",
-    "Entertainment": "Web Services",
-    "enter": "webser"
+    "imgName": "American Alloy.png",
+    "client": "American Alloy",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/American-Alloy.png",
+    "category": "Commercial and Industrial",
+    "categoryClass": "comm"
   },
   {
-    "1stAve Machine.png": "AMPD-Technologies.png",
-    "1stAve Machine": "AMPD-Technologies",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/AMPD-Technologies.png",
-    "Entertainment": "Gaming",
-    "enter": "gaming"
+    "imgName": "Amobee.png",
+    "client": "Amobee",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Amobee.png",
+    "category": "Web Services",
+    "categoryClass": "webser"
   },
   {
-    "1stAve Machine.png": "Apple.png",
-    "1stAve Machine": "Apple",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Apple.png",
-    "Entertainment": "Manufacturing",
-    "enter": "manu"
+    "imgName": "AMPD-Technologies.png",
+    "client": "AMPD-Technologies",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/AMPD-Technologies.png",
+    "category": "Gaming",
+    "categoryClass": "gaming"
   },
   {
-    "1stAve Machine.png": "Army.png",
-    "1stAve Machine": "Army",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Army.png",
-    "Entertainment": "Security and Defense",
-    "enter": "secdef"
+    "imgName": "Apple.png",
+    "client": "Apple",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Apple.png",
+    "category": "Manufacturing",
+    "categoryClass": "manu"
   },
   {
-    "1stAve Machine.png": "ARRI-U.S.png",
-    "1stAve Machine": "ARRI-U.S",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/ARRI-U.S.png",
-    "Entertainment": "Manufacturing",
-    "enter": "manu"
+    "imgName": "Army.png",
+    "client": "Army",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Army.png",
+    "category": "Security and Defense",
+    "categoryClass": "secdef"
   },
   {
-    "1stAve Machine.png": "Aruba_Networks.png",
-    "1stAve Machine": "Aruba Networks",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Aruba_Networks.png",
-    "Entertainment": "High Tech",
-    "enter": "tech"
+    "imgName": "ARRI-U.S.png",
+    "client": "ARRI-U.S",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/ARRI-U.S.png",
+    "category": "Manufacturing",
+    "categoryClass": "manu"
   },
   {
-    "1stAve Machine.png": "Arxan.png",
-    "1stAve Machine": "Arxan",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Arxan.png",
-    "Entertainment": "Security and Defense",
-    "enter": "secdef"
+    "imgName": "Aruba_Networks.png",
+    "client": "Aruba Networks",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Aruba_Networks.png",
+    "category": "High Tech",
+    "categoryClass": "tech"
   },
   {
-    "1stAve Machine.png": "Audi-AG.png",
-    "1stAve Machine": "Audi-AG",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Audi-AG.png",
-    "Entertainment": "Automotive",
-    "enter": "auto"
+    "imgName": "Arxan.png",
+    "client": "Arxan",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Arxan.png",
+    "category": "Security and Defense",
+    "categoryClass": "secdef"
   },
   {
-    "1stAve Machine.png": "Auto Zone.png",
-    "1stAve Machine": "Auto Zone",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Auto-Zone.png",
-    "Entertainment": "Commercial and Industrial",
-    "enter": "comm"
+    "imgName": "Audi-AG.png",
+    "client": "Audi-AG",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Audi-AG.png",
+    "category": "Automotive",
+    "categoryClass": "auto"
   },
   {
-    "1stAve Machine.png": "AutoZone_logo.png",
-    "1stAve Machine": "AutoZone_logo",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/AutoZone_logo.png",
-    "Entertainment": "Automotive",
-    "enter": "auto"
+    "imgName": "Auto Zone.png",
+    "client": "Auto Zone",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Auto-Zone.png",
+    "category": "Commercial and Industrial",
+    "categoryClass": "comm"
   },
   {
-    "1stAve Machine.png": "Backblaze.png",
-    "1stAve Machine": "Backblaze",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Backblaze.png",
-    "Entertainment": "Web Services",
-    "enter": "webser"
+    "imgName": "AutoZone_logo.png",
+    "client": "AutoZone_logo",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/AutoZone_logo.png",
+    "category": "Automotive",
+    "categoryClass": "auto"
   },
   {
-    "1stAve Machine.png": "Badger Mutual.png",
-    "1stAve Machine": "Badger Mutual",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Badger-Mutual.png",
-    "Entertainment": "Financial",
-    "enter": "fin"
+    "imgName": "Backblaze.png",
+    "client": "Backblaze",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Backblaze.png",
+    "category": "Web Services",
+    "categoryClass": "webser"
   },
   {
-    "1stAve Machine.png": "BAE-Systems-Inc.png",
-    "1stAve Machine": "BAE-Systems-Inc",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/BAE-Systems-Inc.png",
-    "Entertainment": "Manufacturing",
-    "enter": "manu"
+    "imgName": "Badger Mutual.png",
+    "client": "Badger Mutual",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Badger-Mutual.png",
+    "category": "Financial",
+    "categoryClass": "fin"
   },
   {
-    "1stAve Machine.png": "BayPhoto.png",
-    "1stAve Machine": "BayPhoto",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/BayPhoto.png",
-    "Entertainment": "Web Services",
-    "enter": "webser"
+    "imgName": "BAE-Systems-Inc.png",
+    "client": "BAE-Systems-Inc",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/BAE-Systems-Inc.png",
+    "category": "Manufacturing",
+    "categoryClass": "manu"
   },
   {
-    "1stAve Machine.png": "Beehive Federal Credit Union.png",
-    "1stAve Machine": "Beehive Federal Credit Union",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Beehive-Federal-Credit-Union.png",
-    "Entertainment": "Financial",
-    "enter": "fin"
+    "imgName": "BayPhoto.png",
+    "client": "BayPhoto",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/BayPhoto.png",
+    "category": "Web Services",
+    "categoryClass": "webser"
   },
   {
-    "1stAve Machine.png": "BendPak-Inc.png",
-    "1stAve Machine": "BendPak-Inc",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/BendPak-Inc.png",
-    "Entertainment": "Automotive",
-    "enter": "auto"
+    "imgName": "Beehive Federal Credit Union.png",
+    "client": "Beehive Federal Credit Union",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Beehive-Federal-Credit-Union.png",
+    "category": "Financial",
+    "categoryClass": "fin"
   },
   {
-    "1stAve Machine.png": "Boeing.png",
-    "1stAve Machine": "Boeing",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Boeing.png",
-    "Entertainment": "Manufacturing",
-    "enter": "manu"
+    "imgName": "BendPak-Inc.png",
+    "client": "BendPak-Inc",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/BendPak-Inc.png",
+    "category": "Automotive",
+    "categoryClass": "auto"
   },
   {
-    "1stAve Machine.png": "Booz Allen Hamilton.png",
-    "1stAve Machine": "Booz Allen Hamilton",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Booz-Allen-Hamilton.png",
-    "Entertainment": "Government",
-    "enter": "gov"
+    "imgName": "Boeing.png",
+    "client": "Boeing",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Boeing.png",
+    "category": "Manufacturing",
+    "categoryClass": "manu"
   },
   {
-    "1stAve Machine.png": "Booz-Allen-Hamilton.png",
-    "1stAve Machine": "Booz-Allen-Hamilton",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Booz-Allen-Hamilton.png",
-    "Entertainment": "Service Provider",
-    "enter": "service"
+    "imgName": "Booz Allen Hamilton.png",
+    "client": "Booz Allen Hamilton",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Booz-Allen-Hamilton.png",
+    "category": "Government",
+    "categoryClass": "gov"
   },
   {
-    "1stAve Machine.png": "Box.png",
-    "1stAve Machine": "Box",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Box.png",
-    "Entertainment": "Web Services",
-    "enter": "webser"
+    "imgName": "Booz-Allen-Hamilton.png",
+    "client": "Booz-Allen-Hamilton",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Booz-Allen-Hamilton.png",
+    "category": "Service Provider",
+    "categoryClass": "service"
   },
   {
-    "1stAve Machine.png": "Box.png",
-    "1stAve Machine": "Box",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Box.png",
-    "Entertainment": "Service Provider",
-    "enter": "service"
+    "imgName": "Box.png",
+    "client": "Box",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Box.png",
+    "category": "Web Services",
+    "categoryClass": "webser"
   },
   {
-    "1stAve Machine.png": "BP.png",
-    "1stAve Machine": "BP",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/BP.png",
-    "Entertainment": "Commercial and Industrial",
-    "enter": "comm"
+    "imgName": "Box.png",
+    "client": "Box",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Box.png",
+    "category": "Service Provider",
+    "categoryClass": "service"
   },
   {
-    "1stAve Machine.png": "BP.png",
-    "1stAve Machine": "BP",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/BP.png",
-    "Entertainment": "Other",
-    "enter": "other"
+    "imgName": "BP.png",
+    "client": "BP",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/BP.png",
+    "category": "Commercial and Industrial",
+    "categoryClass": "comm"
   },
   {
-    "1stAve Machine.png": "Bungie-Inc..png",
-    "1stAve Machine": "Bungie-Inc.",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Bungie-Inc..png",
-    "Entertainment": "Gaming",
-    "enter": "gaming"
+    "imgName": "BP.png",
+    "client": "BP",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/BP.png",
+    "category": "Other",
+    "categoryClass": "other"
   },
   {
-    "1stAve Machine.png": "Canadian Bank Note.png",
-    "1stAve Machine": "Canadian Bank Note",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Canadian-Bank-Note.png",
-    "Entertainment": "Financial",
-    "enter": "fin"
+    "imgName": "Bungie-Inc..png",
+    "client": "Bungie-Inc.",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Bungie-Inc..png",
+    "category": "Gaming",
+    "categoryClass": "gaming"
   },
   {
-    "1stAve Machine.png": "Cancer Research and Biostatistics.jpeg",
-    "1stAve Machine": "Cancer Research and Biostatistics",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Cancer-Research-and-Biostatistics.jpeg",
-    "Entertainment": "Healthcare",
-    "enter": "health"
+    "imgName": "Canadian Bank Note.png",
+    "client": "Canadian Bank Note",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Canadian-Bank-Note.png",
+    "category": "Financial",
+    "categoryClass": "fin"
   },
   {
-    "1stAve Machine.png": "Carnegie-Mellon-University-National-Robotics-Engineering-Center-NREC.png",
-    "1stAve Machine": "Carnegie-Mellon-University-National-Robotics-Engineering-Center-NREC",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Carnegie-Mellon-University-National-Robotics-Engineering-Center-NREC.png",
-    "Entertainment": "Research",
-    "enter": "research"
+    "imgName": "Cancer Research and Biostatistics.jpeg",
+    "client": "Cancer Research and Biostatistics",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Cancer-Research-and-Biostatistics.jpeg",
+    "category": "Healthcare",
+    "categoryClass": "health"
   },
   {
-    "1stAve Machine.png": "Casper-Medical-Imaging.png",
-    "1stAve Machine": "Casper-Medical-Imaging",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Casper-Medical-Imaging.png",
-    "Entertainment": "Healthcare",
-    "enter": "health"
+    "imgName": "Carnegie-Mellon-University-National-Robotics-Engineering-Center-NREC.png",
+    "client": "Carnegie-Mellon-University-National-Robotics-Engineering-Center-NREC",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Carnegie-Mellon-University-National-Robotics-Engineering-Center-NREC.png",
+    "category": "Research",
+    "categoryClass": "research"
   },
   {
-    "1stAve Machine.png": "Caterpillar.png",
-    "1stAve Machine": "Caterpillar",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Caterpillar.png",
-    "Entertainment": "Manufacturing",
-    "enter": "manu"
+    "imgName": "Casper-Medical-Imaging.png",
+    "client": "Casper-Medical-Imaging",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Casper-Medical-Imaging.png",
+    "category": "Healthcare",
+    "categoryClass": "health"
   },
   {
-    "1stAve Machine.png": "Central Utah Water.png",
-    "1stAve Machine": "Central Utah Water",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Central-Utah-Water.png",
-    "Entertainment": "Government",
-    "enter": "gov"
+    "imgName": "Caterpillar.png",
+    "client": "Caterpillar",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Caterpillar.png",
+    "category": "Manufacturing",
+    "categoryClass": "manu"
   },
   {
-    "1stAve Machine.png": "Childrens Hospital Minnesota.png",
-    "1stAve Machine": "Childrens Hospital Minnesota",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Childrens-Hospital-Minnesota.png",
-    "Entertainment": "Healthcare",
-    "enter": "health"
+    "imgName": "Central Utah Water.png",
+    "client": "Central Utah Water",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Central-Utah-Water.png",
+    "category": "Government",
+    "categoryClass": "gov"
   },
   {
-    "1stAve Machine.png": "Cisco.png",
-    "1stAve Machine": "Cisco",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Cisco.png",
-    "Entertainment": "Manufacturing",
-    "enter": "manu"
+    "imgName": "Childrens Hospital Minnesota.png",
+    "client": "Childrens Hospital Minnesota",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Childrens-Hospital-Minnesota.png",
+    "category": "Healthcare",
+    "categoryClass": "health"
   },
   {
-    "1stAve Machine.png": "Citrix.png",
-    "1stAve Machine": "Citrix",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Citrix.png",
-    "Entertainment": "High Tech",
-    "enter": "tech"
+    "imgName": "Cisco.png",
+    "client": "Cisco",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Cisco.png",
+    "category": "Manufacturing",
+    "categoryClass": "manu"
   },
   {
-    "1stAve Machine.png": "City-and-County-of-Denver.png",
-    "1stAve Machine": "City-and-County-of-Denver",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/City-and-County-of-Denver.png",
-    "Entertainment": "Government",
-    "enter": "gov"
+    "imgName": "Citrix.png",
+    "client": "Citrix",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Citrix.png",
+    "category": "High Tech",
+    "categoryClass": "tech"
   },
   {
-    "1stAve Machine.png": "Clayton Kendall.png",
-    "1stAve Machine": "Clayton Kendall",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Clayton-Kendall.png",
-    "Entertainment": "Commercial and Industrial",
-    "enter": "comm"
+    "imgName": "City-and-County-of-Denver.png",
+    "client": "City-and-County-of-Denver",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/City-and-County-of-Denver.png",
+    "category": "Government",
+    "categoryClass": "gov"
   },
   {
-    "1stAve Machine.png": "imgName",
-    "1stAve Machine": "client",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "URL",
-    "Entertainment": "category",
-    "enter": "categoryClass"
+    "imgName": "Clayton Kendall.png",
+    "client": "Clayton Kendall",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Clayton-Kendall.png",
+    "category": "Commercial and Industrial",
+    "categoryClass": "comm"
   },
   {
-    "1stAve Machine.png": "Cogent Communications.png",
-    "1stAve Machine": "Cogent Communications",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Cogent-Communications.png",
-    "Entertainment": "High Tech",
-    "enter": "tech"
+    "imgName": "imgName",
+    "client": "client",
+    "URL": "URL",
+    "category": "category",
+    "categoryClass": "categoryClass"
   },
   {
-    "1stAve Machine.png": "Collins-Aerospace.png",
-    "1stAve Machine": "Collins-Aerospace",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Collins-Aerospace.png",
-    "Entertainment": "Manufacturing",
-    "enter": "manu"
+    "imgName": "Cogent Communications.png",
+    "client": "Cogent Communications",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Cogent-Communications.png",
+    "category": "High Tech",
+    "categoryClass": "tech"
   },
   {
-    "1stAve Machine.png": "Colorado State University.png",
-    "1stAve Machine": "Colorado State University",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Colorado-State-University.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "Collins-Aerospace.png",
+    "client": "Collins-Aerospace",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Collins-Aerospace.png",
+    "category": "Manufacturing",
+    "categoryClass": "manu"
   },
   {
-    "1stAve Machine.png": "Columbia University.png",
-    "1stAve Machine": "Columbia University",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Columbia-University.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "Colorado State University.png",
+    "client": "Colorado State University",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Colorado-State-University.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "Comcast.png",
-    "1stAve Machine": "Comcast",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Comcast.png",
-    "Entertainment": "Media & Entertainment",
-    "enter": "enter"
+    "imgName": "Columbia University.png",
+    "client": "Columbia University",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Columbia-University.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "Conair.png",
-    "1stAve Machine": "Conair",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Conair.png",
-    "Entertainment": "Other",
-    "enter": "other"
+    "imgName": "Comcast.png",
+    "client": "Comcast",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Comcast.png",
+    "category": "Media & Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "Cornelis-Networks-Inc.png",
-    "1stAve Machine": "Cornelis-Networks-Inc",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Cornelis-Networks-Inc.png",
-    "Entertainment": "Manufacturing",
-    "enter": "manu"
+    "imgName": "Conair.png",
+    "client": "Conair",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Conair.png",
+    "category": "Other",
+    "categoryClass": "other"
   },
   {
-    "1stAve Machine.png": "Counsyl.png",
-    "1stAve Machine": "Counsyl",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Counsyl.png",
-    "Entertainment": "Healthcare",
-    "enter": "health"
+    "imgName": "Cornelis-Networks-Inc.png",
+    "client": "Cornelis-Networks-Inc",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Cornelis-Networks-Inc.png",
+    "category": "Manufacturing",
+    "categoryClass": "manu"
   },
   {
-    "1stAve Machine.png": "Crowdstrike.png",
-    "1stAve Machine": "Crowdstrike",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Crowdstrike.png",
-    "Entertainment": "Security and Defense",
-    "enter": "secdef"
+    "imgName": "Counsyl.png",
+    "client": "Counsyl",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Counsyl.png",
+    "category": "Healthcare",
+    "categoryClass": "health"
   },
   {
-    "1stAve Machine.png": "Cubic-Corporation.jpg",
-    "1stAve Machine": "Cubic-Corporation.jpg",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Cubic-Corporation.jpg",
-    "Entertainment": "Research",
-    "enter": "research"
+    "imgName": "Crowdstrike.png",
+    "client": "Crowdstrike",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Crowdstrike.png",
+    "category": "Security and Defense",
+    "categoryClass": "secdef"
   },
   {
-    "1stAve Machine.png": "Department of Energy.png",
-    "1stAve Machine": "Department of Energy",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Department-of-Energy.png",
-    "Entertainment": "Government",
-    "enter": "gov"
+    "imgName": "Cubic-Corporation.jpg",
+    "client": "Cubic-Corporation.jpg",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Cubic-Corporation.jpg",
+    "category": "Research",
+    "categoryClass": "research"
   },
   {
-    "1stAve Machine.png": "Department-of-Energy.jpg",
-    "1stAve Machine": "Department-of-Energy",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Department-of-Energy.jpg",
-    "Entertainment": "Government",
-    "enter": "gov"
+    "imgName": "Department of Energy.png",
+    "client": "Department of Energy",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Department-of-Energy.png",
+    "category": "Government",
+    "categoryClass": "gov"
   },
   {
-    "1stAve Machine.png": "Disney.png",
-    "1stAve Machine": "Disney",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Disney.png",
-    "Entertainment": "Entertainment",
-    "enter": "enter"
+    "imgName": "Department-of-Energy.jpg",
+    "client": "Department-of-Energy",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Department-of-Energy.jpg",
+    "category": "Government",
+    "categoryClass": "gov"
   },
   {
-    "1stAve Machine.png": "Disney.png",
-    "1stAve Machine": "Disney",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Disney.png",
-    "Entertainment": "Media & Entertainment",
-    "enter": "enter"
+    "imgName": "Disney.png",
+    "client": "Disney",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Disney.png",
+    "category": "Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "DOD.png",
-    "1stAve Machine": "DOD",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/DOD.png",
-    "Entertainment": "Security and Defense",
-    "enter": "secdef"
+    "imgName": "Disney.png",
+    "client": "Disney",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Disney.png",
+    "category": "Media & Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "Dubai-Police.png",
-    "1stAve Machine": "Dubai-Police",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Dubai-Police.png",
-    "Entertainment": "Government",
-    "enter": "gov"
+    "imgName": "DOD.png",
+    "client": "DOD",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/DOD.png",
+    "category": "Security and Defense",
+    "categoryClass": "secdef"
   },
   {
-    "1stAve Machine.png": "Duke.png",
-    "1stAve Machine": "Duke",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Duke.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "Dubai-Police.png",
+    "client": "Dubai-Police",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Dubai-Police.png",
+    "category": "Government",
+    "categoryClass": "gov"
   },
   {
-    "1stAve Machine.png": "Duke-University.png",
-    "1stAve Machine": "Duke-University",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Duke-University.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "Duke.png",
+    "client": "Duke",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Duke.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "Dutch Ministry of Defense.png",
-    "1stAve Machine": "Dutch Ministry of Defense",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Dutch-Ministry-of-Defense.png",
-    "Entertainment": "Security and Defense",
-    "enter": "secdef"
+    "imgName": "Duke-University.png",
+    "client": "Duke-University",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Duke-University.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "Engie.png",
-    "1stAve Machine": "Engie",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Engie.png",
-    "Entertainment": "Other",
-    "enter": "other"
+    "imgName": "Dutch Ministry of Defense.png",
+    "client": "Dutch Ministry of Defense",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Dutch-Ministry-of-Defense.png",
+    "category": "Security and Defense",
+    "categoryClass": "secdef"
   },
   {
-    "1stAve Machine.png": "Equinix.png",
-    "1stAve Machine": "Equinix",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Equinix.png",
-    "Entertainment": "Service Provider",
-    "enter": "service"
+    "imgName": "Engie.png",
+    "client": "Engie",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Engie.png",
+    "category": "Other",
+    "categoryClass": "other"
   },
   {
-    "1stAve Machine.png": "Euronet-Formerly-Fastmatch.png",
-    "1stAve Machine": "Euronext",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Euronet-Formerly-Fastmatch.png",
-    "Entertainment": "Financial",
-    "enter": "fin"
+    "imgName": "Equinix.png",
+    "client": "Equinix",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Equinix.png",
+    "category": "Service Provider",
+    "categoryClass": "service"
   },
   {
-    "1stAve Machine.png": "Experity-Health-scaled.jpg",
-    "1stAve Machine": "Experity-Health-scaled",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Experity-Health-scaled.jpg",
-    "Entertainment": "Healthcare",
-    "enter": "health"
+    "imgName": "Euronet-Formerly-Fastmatch.png",
+    "client": "Euronext",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Euronet-Formerly-Fastmatch.png",
+    "category": "Financial",
+    "categoryClass": "fin"
   },
   {
-    "1stAve Machine.png": "f5.png",
-    "1stAve Machine": "f5",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/f5.png",
-    "Entertainment": "High Tech",
-    "enter": "tech"
+    "imgName": "Experity-Health-scaled.jpg",
+    "client": "Experity-Health-scaled",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Experity-Health-scaled.jpg",
+    "category": "Healthcare",
+    "categoryClass": "health"
   },
   {
-    "1stAve Machine.png": "Federal Aviation Administration.png",
-    "1stAve Machine": "Federal Aviation Administration",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Federal-Aviation-Administration.png",
-    "Entertainment": "Government",
-    "enter": "gov"
+    "imgName": "f5.png",
+    "client": "f5",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/f5.png",
+    "category": "High Tech",
+    "categoryClass": "tech"
   },
   {
-    "1stAve Machine.png": "Florida State University.png",
-    "1stAve Machine": "Florida State University",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Florida-State-University.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "Federal Aviation Administration.png",
+    "client": "Federal Aviation Administration",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Federal-Aviation-Administration.png",
+    "category": "Government",
+    "categoryClass": "gov"
   },
   {
-    "1stAve Machine.png": "Food-and-Drug-Administration.png",
-    "1stAve Machine": "Food-and-Drug-Administration",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Food-and-Drug-Administration.png",
-    "Entertainment": "Government",
-    "enter": "gov"
+    "imgName": "Florida State University.png",
+    "client": "Florida State University",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Florida-State-University.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "Foot Locker.png",
-    "1stAve Machine": "Foot Locker",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Foot-Locker.png",
-    "Entertainment": "Commercial and Industrial",
-    "enter": "comm"
+    "imgName": "Food-and-Drug-Administration.png",
+    "client": "Food-and-Drug-Administration",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Food-and-Drug-Administration.png",
+    "category": "Government",
+    "categoryClass": "gov"
   },
   {
-    "1stAve Machine.png": "FOX.png",
-    "1stAve Machine": "FOX",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/FOX.png",
-    "Entertainment": "Entertainment",
-    "enter": "enter"
+    "imgName": "Foot Locker.png",
+    "client": "Foot Locker",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Foot-Locker.png",
+    "category": "Commercial and Industrial",
+    "categoryClass": "comm"
   },
   {
-    "1stAve Machine.png": "Fox.png",
-    "1stAve Machine": "Fox",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Fox.png",
-    "Entertainment": "Media & Entertainment",
-    "enter": "enter"
+    "imgName": "FOX.png",
+    "client": "FOX",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/FOX.png",
+    "category": "Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "Gearbox-Software.webp",
-    "1stAve Machine": "Gearbox-Software.webp",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Gearbox-Software.webp",
-    "Entertainment": "Gaming",
-    "enter": "gaming"
+    "imgName": "Fox.png",
+    "client": "Fox",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Fox.png",
+    "category": "Media & Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "General Electric Healthcare.png",
-    "1stAve Machine": "General Electric Healthcare",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/General-Electric-Healthcare.png",
-    "Entertainment": "Healthcare",
-    "enter": "health"
+    "imgName": "Gearbox-Software.webp",
+    "client": "Gearbox-Software.webp",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Gearbox-Software.webp",
+    "category": "Gaming",
+    "categoryClass": "gaming"
   },
   {
-    "1stAve Machine.png": "Georgia Tech.png",
-    "1stAve Machine": "Georgia Tech",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Georgia-Tech.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "General Electric Healthcare.png",
+    "client": "General Electric Healthcare",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/General-Electric-Healthcare.png",
+    "category": "Healthcare",
+    "categoryClass": "health"
   },
   {
-    "1stAve Machine.png": "Georgia-Tech-University.png",
-    "1stAve Machine": "Georgia-Tech-University",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Georgia-Tech-University.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "Georgia Tech.png",
+    "client": "Georgia Tech",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Georgia-Tech.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "GM Cruise Automation.png",
-    "1stAve Machine": "GM Cruise Automation",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/GM-Cruise-Automation.png",
-    "Entertainment": "High Tech",
-    "enter": "tech"
+    "imgName": "Georgia-Tech-University.png",
+    "client": "Georgia-Tech-University",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Georgia-Tech-University.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "Goodix-Technologies-scaled.jpg",
-    "1stAve Machine": "Goodix-Technologies",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Goodix-Technologies-scaled.jpg",
-    "Entertainment": "Manufacturing",
-    "enter": "manu"
+    "imgName": "GM Cruise Automation.png",
+    "client": "GM Cruise Automation",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/GM-Cruise-Automation.png",
+    "category": "High Tech",
+    "categoryClass": "tech"
   },
   {
-    "1stAve Machine.png": "Gorilla Creative.png",
-    "1stAve Machine": "Gorilla Creative",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Gorilla-Creative.png",
-    "Entertainment": "Entertainment",
-    "enter": "enter"
+    "imgName": "Goodix-Technologies-scaled.jpg",
+    "client": "Goodix-Technologies",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Goodix-Technologies-scaled.jpg",
+    "category": "Manufacturing",
+    "categoryClass": "manu"
   },
   {
-    "1stAve Machine.png": "Groupon.png",
-    "1stAve Machine": "Groupon",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Groupon.png",
-    "Entertainment": "Web Services",
-    "enter": "webser"
+    "imgName": "Gorilla Creative.png",
+    "client": "Gorilla Creative",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Gorilla-Creative.png",
+    "category": "Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "Harmony-Healthcare-IT.png",
-    "1stAve Machine": "Harmony-Healthcare-IT",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Harmony-Healthcare-IT.png",
-    "Entertainment": "Healthcare",
-    "enter": "health"
+    "imgName": "Groupon.png",
+    "client": "Groupon",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Groupon.png",
+    "category": "Web Services",
+    "categoryClass": "webser"
   },
   {
-    "1stAve Machine.png": "Harvard.png",
-    "1stAve Machine": "Harvard",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Harvard.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "Harmony-Healthcare-IT.png",
+    "client": "Harmony-Healthcare-IT",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Harmony-Healthcare-IT.png",
+    "category": "Healthcare",
+    "categoryClass": "health"
   },
   {
-    "1stAve Machine.png": "Harvard-University.png",
-    "1stAve Machine": "Harvard-University",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Harvard-University.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "Harvard.png",
+    "client": "Harvard",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Harvard.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "Hawaii-Pacific-Health.png",
-    "1stAve Machine": "Hawaii-Pacific-Health",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Hawaii-Pacific-Health.png",
-    "Entertainment": "Healthcare",
-    "enter": "health"
+    "imgName": "Harvard-University.png",
+    "client": "Harvard-University",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Harvard-University.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "HBO.png",
-    "1stAve Machine": "HBO",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/HBO.png",
-    "Entertainment": "Entertainment",
-    "enter": "enter"
+    "imgName": "Hawaii-Pacific-Health.png",
+    "client": "Hawaii-Pacific-Health",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Hawaii-Pacific-Health.png",
+    "category": "Healthcare",
+    "categoryClass": "health"
   },
   {
-    "1stAve Machine.png": "HBO.png",
-    "1stAve Machine": "HBO",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/HBO.png",
-    "Entertainment": "Media & Entertainment",
-    "enter": "enter"
+    "imgName": "HBO.png",
+    "client": "HBO",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/HBO.png",
+    "category": "Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "Health Services Inc.jpg",
-    "1stAve Machine": "Health Services Inc",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Health-Services-Inc.jpg",
-    "Entertainment": "Healthcare",
-    "enter": "health"
+    "imgName": "HBO.png",
+    "client": "HBO",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/HBO.png",
+    "category": "Media & Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "Healthspaces_Logo.png",
-    "1stAve Machine": "HealthSpaces",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2022/11/Healthspaces_Logo.png",
-    "Entertainment": "Healthcare",
-    "enter": "health"
+    "imgName": "Health Services Inc.jpg",
+    "client": "Health Services Inc",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Health-Services-Inc.jpg",
+    "category": "Healthcare",
+    "categoryClass": "health"
   },
   {
-    "1stAve Machine.png": "Hudson River Housing.png",
-    "1stAve Machine": "Hudson River Housing",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Hudson-River-Housing.png",
-    "Entertainment": "Healthcare",
-    "enter": "health"
+    "imgName": "Healthspaces_Logo.png",
+    "client": "HealthSpaces",
+    "URL": "https://www.truenas.com/wp-content/uploads/2022/11/Healthspaces_Logo.png",
+    "category": "Healthcare",
+    "categoryClass": "health"
   },
   {
-    "1stAve Machine.png": "Hudson River Trading.png",
-    "1stAve Machine": "Hudson River Trading",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Hudson-River-Trading.png",
-    "Entertainment": "Financial",
-    "enter": "fin"
+    "imgName": "Hudson River Housing.png",
+    "client": "Hudson River Housing",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Hudson-River-Housing.png",
+    "category": "Healthcare",
+    "categoryClass": "health"
   },
   {
-    "1stAve Machine.png": "InfoSEC Global.png",
-    "1stAve Machine": "InfoSEC Global",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/InfoSEC-Global.png",
-    "Entertainment": "Security and Defense",
-    "enter": "secdef"
+    "imgName": "Hudson River Trading.png",
+    "client": "Hudson River Trading",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Hudson-River-Trading.png",
+    "category": "Financial",
+    "categoryClass": "fin"
   },
   {
-    "1stAve Machine.png": "Insight.png",
-    "1stAve Machine": "Insight",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Insight.png",
-    "Entertainment": "Commercial and Industrial",
-    "enter": "comm"
+    "imgName": "InfoSEC Global.png",
+    "client": "InfoSEC Global",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/InfoSEC-Global.png",
+    "category": "Security and Defense",
+    "categoryClass": "secdef"
   },
   {
-    "1stAve Machine.png": "Intel.png",
-    "1stAve Machine": "Intel",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Intel.png",
-    "Entertainment": "Manufacturing",
-    "enter": "manu"
+    "imgName": "Insight.png",
+    "client": "Insight",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Insight.png",
+    "category": "Commercial and Industrial",
+    "categoryClass": "comm"
   },
   {
-    "1stAve Machine.png": "ISC.png",
-    "1stAve Machine": "ISC",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/ISC.png",
-    "Entertainment": "High Tech",
-    "enter": "tech"
+    "imgName": "Intel.png",
+    "client": "Intel",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Intel.png",
+    "category": "Manufacturing",
+    "categoryClass": "manu"
   },
   {
-    "1stAve Machine.png": "JFK Library.png",
-    "1stAve Machine": "JFK Library",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/JFK-Library.png",
-    "Entertainment": "Government",
-    "enter": "gov"
+    "imgName": "ISC.png",
+    "client": "ISC",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/ISC.png",
+    "category": "High Tech",
+    "categoryClass": "tech"
   },
   {
-    "1stAve Machine.png": "John Hopkins.png",
-    "1stAve Machine": "John Hopkins",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/John-Hopkins.png",
-    "Entertainment": "Healthcare",
-    "enter": "health"
+    "imgName": "JFK Library.png",
+    "client": "JFK Library",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/JFK-Library.png",
+    "category": "Government",
+    "categoryClass": "gov"
   },
   {
-    "1stAve Machine.png": "John-F.-Kennedy-Library-Foundation.png",
-    "1stAve Machine": "John-F.-Kennedy-Library-Foundation",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/John-F.-Kennedy-Library-Foundation.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "John Hopkins.png",
+    "client": "John Hopkins",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/John-Hopkins.png",
+    "category": "Healthcare",
+    "categoryClass": "health"
   },
   {
-    "1stAve Machine.png": "John-Hopkins.png",
-    "1stAve Machine": "John-Hopkins",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/John-Hopkins.png",
-    "Entertainment": "Healthcare",
-    "enter": "health"
+    "imgName": "John-F.-Kennedy-Library-Foundation.png",
+    "client": "John-F.-Kennedy-Library-Foundation",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/John-F.-Kennedy-Library-Foundation.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "Juniper_Network.png",
-    "1stAve Machine": "Juniper Network",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Juniper_Network.png",
-    "Entertainment": "High Tech",
-    "enter": "tech"
+    "imgName": "John-Hopkins.png",
+    "client": "John-Hopkins",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/John-Hopkins.png",
+    "category": "Healthcare",
+    "categoryClass": "health"
   },
   {
-    "1stAve Machine.png": "Juniper-Networks.png",
-    "1stAve Machine": "Juniper-Networks",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Juniper-Networks.png",
-    "Entertainment": "Manufacturing",
-    "enter": "manu"
+    "imgName": "Juniper_Network.png",
+    "client": "Juniper Network",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Juniper_Network.png",
+    "category": "High Tech",
+    "categoryClass": "tech"
   },
   {
-    "1stAve Machine.png": "Kepler-Communications-Inc.png",
-    "1stAve Machine": "Kepler-Communications-Inc",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Kepler-Communications-Inc.png",
-    "Entertainment": "Research",
-    "enter": "research"
+    "imgName": "Juniper-Networks.png",
+    "client": "Juniper-Networks",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Juniper-Networks.png",
+    "category": "Manufacturing",
+    "categoryClass": "manu"
   },
   {
-    "1stAve Machine.png": "Kern Federal Credit Union.png",
-    "1stAve Machine": "Kern Federal Credit Union",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Kern-Federal-Credit-Union.png",
-    "Entertainment": "Financial",
-    "enter": "fin"
+    "imgName": "Kepler-Communications-Inc.png",
+    "client": "Kepler-Communications-Inc",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Kepler-Communications-Inc.png",
+    "category": "Research",
+    "categoryClass": "research"
   },
   {
-    "1stAve Machine.png": "Keyword-Studios.png",
-    "1stAve Machine": "Keyword-Studios",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Keyword-Studios.png",
-    "Entertainment": "Gaming",
-    "enter": "gaming"
+    "imgName": "Kern Federal Credit Union.png",
+    "client": "Kern Federal Credit Union",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Kern-Federal-Credit-Union.png",
+    "category": "Financial",
+    "categoryClass": "fin"
   },
   {
-    "1stAve Machine.png": "KFL_A Public Health.png",
-    "1stAve Machine": "KFL&A Public Health",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/KFL_A-Public-Health.png",
-    "Entertainment": "Healthcare",
-    "enter": "health"
+    "imgName": "Keyword-Studios.png",
+    "client": "Keyword-Studios",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Keyword-Studios.png",
+    "category": "Gaming",
+    "categoryClass": "gaming"
   },
   {
-    "1stAve Machine.png": "Konami.png",
-    "1stAve Machine": "Konami",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Konami.png",
-    "Entertainment": "Gaming",
-    "enter": "gaming"
+    "imgName": "KFL_A Public Health.png",
+    "client": "KFL&A Public Health",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/KFL_A-Public-Health.png",
+    "category": "Healthcare",
+    "categoryClass": "health"
   },
   {
-    "1stAve Machine.png": "Kratos-Defense-and-Security-Solutions.png",
-    "1stAve Machine": "Kratos-Defense-and-Security-Solutions",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Kratos-Defense-and-Security-Solutions.png",
-    "Entertainment": "Service Provider",
-    "enter": "service"
+    "imgName": "Konami.png",
+    "client": "Konami",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Konami.png",
+    "category": "Gaming",
+    "categoryClass": "gaming"
   },
   {
-    "1stAve Machine.png": "Lawrence Berkeley Lab.png",
-    "1stAve Machine": "Lawrence Berkeley Lab",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Lawrence-Berkeley-Lab.png",
-    "Entertainment": "Government",
-    "enter": "gov"
+    "imgName": "Kratos-Defense-and-Security-Solutions.png",
+    "client": "Kratos-Defense-and-Security-Solutions",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Kratos-Defense-and-Security-Solutions.png",
+    "category": "Service Provider",
+    "categoryClass": "service"
   },
   {
-    "1stAve Machine.png": "Lawrence Livermore National Lab.png",
-    "1stAve Machine": "Lawrence Livermore National Lab",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Lawrence-Livermore-National-Lab.png",
-    "Entertainment": "Government",
-    "enter": "gov"
+    "imgName": "Lawrence Berkeley Lab.png",
+    "client": "Lawrence Berkeley Lab",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Lawrence-Berkeley-Lab.png",
+    "category": "Government",
+    "categoryClass": "gov"
   },
   {
-    "1stAve Machine.png": "Lawrence-Berkeley-National-Laboratory.png",
-    "1stAve Machine": "Lawrence-Berkeley-National-Laboratory",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Lawrence-Berkeley-National-Laboratory.png",
-    "Entertainment": "Research",
-    "enter": "research"
+    "imgName": "Lawrence Livermore National Lab.png",
+    "client": "Lawrence Livermore National Lab",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Lawrence-Livermore-National-Lab.png",
+    "category": "Government",
+    "categoryClass": "gov"
   },
   {
-    "1stAve Machine.png": "Layer3.png",
-    "1stAve Machine": "Layer3",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Layer3.png",
-    "Entertainment": "Web Services",
-    "enter": "webser"
+    "imgName": "Lawrence-Berkeley-National-Laboratory.png",
+    "client": "Lawrence-Berkeley-National-Laboratory",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Lawrence-Berkeley-National-Laboratory.png",
+    "category": "Research",
+    "categoryClass": "research"
   },
   {
-    "1stAve Machine.png": "Leiden-University.png",
-    "1stAve Machine": "Leiden-University",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Leiden-University.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "Layer3.png",
+    "client": "Layer3",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Layer3.png",
+    "category": "Web Services",
+    "categoryClass": "webser"
   },
   {
-    "1stAve Machine.png": "Lockheed Martin.png",
-    "1stAve Machine": "Lockheed Martin",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Lockheed-Martin.png",
-    "Entertainment": "Security and Defense",
-    "enter": "secdef"
+    "imgName": "Leiden-University.png",
+    "client": "Leiden-University",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Leiden-University.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "Lockheed-Martin.png",
-    "1stAve Machine": "Lockheed-Martin",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Lockheed-Martin.png",
-    "Entertainment": "Manufacturing",
-    "enter": "manu"
+    "imgName": "Lockheed Martin.png",
+    "client": "Lockheed Martin",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Lockheed-Martin.png",
+    "category": "Security and Defense",
+    "categoryClass": "secdef"
   },
   {
-    "1stAve Machine.png": "Los-Angeles-County.png",
-    "1stAve Machine": "Los-Angeles-County",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Los-Angeles-County.png",
-    "Entertainment": "Government",
-    "enter": "gov"
+    "imgName": "Lockheed-Martin.png",
+    "client": "Lockheed-Martin",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Lockheed-Martin.png",
+    "category": "Manufacturing",
+    "categoryClass": "manu"
   },
   {
-    "1stAve Machine.png": "Managecast.png",
-    "1stAve Machine": "Managecast",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Managecast.png",
-    "Entertainment": "Web Services",
-    "enter": "webser"
+    "imgName": "Los-Angeles-County.png",
+    "client": "Los-Angeles-County",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Los-Angeles-County.png",
+    "category": "Government",
+    "categoryClass": "gov"
   },
   {
-    "1stAve Machine.png": "Marvel.png",
-    "1stAve Machine": "Marvel",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Marvel.png",
-    "Entertainment": "Entertainment",
-    "enter": "enter"
+    "imgName": "Managecast.png",
+    "client": "Managecast",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Managecast.png",
+    "category": "Web Services",
+    "categoryClass": "webser"
   },
   {
-    "1stAve Machine.png": "Marvel-Entertainment.png",
-    "1stAve Machine": "Marvel-Entertainment",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Marvel-Entertainment.png",
-    "Entertainment": "Media & Entertainment",
-    "enter": "enter"
+    "imgName": "Marvel.png",
+    "client": "Marvel",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Marvel.png",
+    "category": "Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "McGill University.png",
-    "1stAve Machine": "McGill University",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/McGill-University.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "Marvel-Entertainment.png",
+    "client": "Marvel-Entertainment",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Marvel-Entertainment.png",
+    "category": "Media & Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "Memorial Sloan Kettering Cancer Center.png",
-    "1stAve Machine": "Memorial Sloan Kettering Cancer Center",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Memorial-Sloan-Kettering-Cancer-Center.png",
-    "Entertainment": "Healthcare",
-    "enter": "health"
+    "imgName": "McGill University.png",
+    "client": "McGill University",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/McGill-University.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "Microsoft-scaled.jpg",
-    "1stAve Machine": "Microsoft",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Microsoft-scaled.jpg",
-    "Entertainment": "Media & Entertainment",
-    "enter": "enter"
+    "imgName": "Memorial Sloan Kettering Cancer Center.png",
+    "client": "Memorial Sloan Kettering Cancer Center",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Memorial-Sloan-Kettering-Cancer-Center.png",
+    "category": "Healthcare",
+    "categoryClass": "health"
   },
   {
-    "1stAve Machine.png": "MIT.png",
-    "1stAve Machine": "MIT",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/MIT.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "Microsoft-scaled.jpg",
+    "client": "Microsoft",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Microsoft-scaled.jpg",
+    "category": "Media & Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "MIT.png",
-    "1stAve Machine": "MIT",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/MIT.png",
-    "Entertainment": "Research",
-    "enter": "research"
+    "imgName": "MIT.png",
+    "client": "MIT",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/MIT.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "Mobileiron.png",
-    "1stAve Machine": "Mobileiron",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Mobileiron.png",
-    "Entertainment": "High Tech",
-    "enter": "tech"
+    "imgName": "MIT.png",
+    "client": "MIT",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/MIT.png",
+    "category": "Research",
+    "categoryClass": "research"
   },
   {
-    "1stAve Machine.png": "NASA.png",
-    "1stAve Machine": "NASA",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/NASA.png",
-    "Entertainment": "Government",
-    "enter": "gov"
+    "imgName": "Mobileiron.png",
+    "client": "Mobileiron",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Mobileiron.png",
+    "category": "High Tech",
+    "categoryClass": "tech"
   },
   {
-    "1stAve Machine.png": "NASA.png",
-    "1stAve Machine": "NASA",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/NASA.png",
-    "Entertainment": "Research",
-    "enter": "research"
+    "imgName": "NASA.png",
+    "client": "NASA",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/NASA.png",
+    "category": "Government",
+    "categoryClass": "gov"
   },
   {
-    "1stAve Machine.png": "National Geographic.png",
-    "1stAve Machine": "National Geographic",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/National-Geographic.png",
-    "Entertainment": "Entertainment",
-    "enter": "enter"
+    "imgName": "NASA.png",
+    "client": "NASA",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/NASA.png",
+    "category": "Research",
+    "categoryClass": "research"
   },
   {
-    "1stAve Machine.png": "Navy.png",
-    "1stAve Machine": "Navy",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Navy.png",
-    "Entertainment": "Security and Defense",
-    "enter": "secdef"
+    "imgName": "National Geographic.png",
+    "client": "National Geographic",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/National-Geographic.png",
+    "category": "Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "NBC.png",
-    "1stAve Machine": "NBC",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/NBC.png",
-    "Entertainment": "Entertainment",
-    "enter": "enter"
+    "imgName": "Navy.png",
+    "client": "Navy",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Navy.png",
+    "category": "Security and Defense",
+    "categoryClass": "secdef"
   },
   {
-    "1stAve Machine.png": "NEC.png",
-    "1stAve Machine": "NEC",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/NEC.png",
-    "Entertainment": "High Tech",
-    "enter": "tech"
+    "imgName": "NBC.png",
+    "client": "NBC",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/NBC.png",
+    "category": "Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "Nevada DOC.jpg",
-    "1stAve Machine": "Nevada DOC",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Nevada-DOC.jpg",
-    "Entertainment": "Government",
-    "enter": "gov"
+    "imgName": "NEC.png",
+    "client": "NEC",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/NEC.png",
+    "category": "High Tech",
+    "categoryClass": "tech"
   },
   {
-    "1stAve Machine.png": "Nevada-Department-of-Corrections.png",
-    "1stAve Machine": "Nevada-Department-of-Corrections",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Nevada-Department-of-Corrections.png",
-    "Entertainment": "Government",
-    "enter": "gov"
+    "imgName": "Nevada DOC.jpg",
+    "client": "Nevada DOC",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Nevada-DOC.jpg",
+    "category": "Government",
+    "categoryClass": "gov"
   },
   {
-    "1stAve Machine.png": "Nike.png",
-    "1stAve Machine": "Nike",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Nike.png",
-    "Entertainment": "Commercial and Industrial",
-    "enter": "comm"
+    "imgName": "Nevada-Department-of-Corrections.png",
+    "client": "Nevada-Department-of-Corrections",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Nevada-Department-of-Corrections.png",
+    "category": "Government",
+    "categoryClass": "gov"
   },
   {
-    "1stAve Machine.png": "NIO_logo.png",
-    "1stAve Machine": "NIO_logo",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/NIO_logo.png",
-    "Entertainment": "Automotive",
-    "enter": "auto"
+    "imgName": "Nike.png",
+    "client": "Nike",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Nike.png",
+    "category": "Commercial and Industrial",
+    "categoryClass": "comm"
   },
   {
-    "1stAve Machine.png": "NIST.png",
-    "1stAve Machine": "NIST",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/NIST.png",
-    "Entertainment": "Government",
-    "enter": "gov"
+    "imgName": "NIO_logo.png",
+    "client": "NIO_logo",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/NIO_logo.png",
+    "category": "Automotive",
+    "categoryClass": "auto"
   },
   {
-    "1stAve Machine.png": "NOAA.png",
-    "1stAve Machine": "NOAA",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/NOAA.png",
-    "Entertainment": "Research",
-    "enter": "research"
+    "imgName": "NIST.png",
+    "client": "NIST",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/NIST.png",
+    "category": "Government",
+    "categoryClass": "gov"
   },
   {
-    "1stAve Machine.png": "NPR.png",
-    "1stAve Machine": "NPR",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/NPR.png",
-    "Entertainment": "Entertainment",
-    "enter": "enter"
+    "imgName": "NOAA.png",
+    "client": "NOAA",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/NOAA.png",
+    "category": "Research",
+    "categoryClass": "research"
   },
   {
-    "1stAve Machine.png": "NPR.png",
-    "1stAve Machine": "NPR",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/NPR.png",
-    "Entertainment": "Media & Entertainment",
-    "enter": "enter"
+    "imgName": "NPR.png",
+    "client": "NPR",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/NPR.png",
+    "category": "Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "Ntiva.png",
-    "1stAve Machine": "Ntiva",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Ntiva.png",
-    "Entertainment": "Service Provider",
-    "enter": "service"
+    "imgName": "NPR.png",
+    "client": "NPR",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/NPR.png",
+    "category": "Media & Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "Nucor.png",
-    "1stAve Machine": "Nucor",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Nucor.png",
-    "Entertainment": "Commercial and Industrial",
-    "enter": "comm"
+    "imgName": "Ntiva.png",
+    "client": "Ntiva",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Ntiva.png",
+    "category": "Service Provider",
+    "categoryClass": "service"
   },
   {
-    "1stAve Machine.png": "NVIDIA.png",
-    "1stAve Machine": "NVIDIA",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/NVIDIA.png",
-    "Entertainment": "Gaming",
-    "enter": "gaming"
+    "imgName": "Nucor.png",
+    "client": "Nucor",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Nucor.png",
+    "category": "Commercial and Industrial",
+    "categoryClass": "comm"
   },
   {
-    "1stAve Machine.png": "O_Reilly-Auto-Parts.png",
-    "1stAve Machine": "O_Reilly-Auto-Parts",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/O_Reilly-Auto-Parts.png",
-    "Entertainment": "Automotive",
-    "enter": "auto"
+    "imgName": "NVIDIA.png",
+    "client": "NVIDIA",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/NVIDIA.png",
+    "category": "Gaming",
+    "categoryClass": "gaming"
   },
   {
-    "1stAve Machine.png": "Oakridge National Laboratory.png",
-    "1stAve Machine": "Oakridge National Laboratory",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Oakridge-National-Laboratory.png",
-    "Entertainment": "Government",
-    "enter": "gov"
+    "imgName": "O_Reilly-Auto-Parts.png",
+    "client": "O_Reilly-Auto-Parts",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/O_Reilly-Auto-Parts.png",
+    "category": "Automotive",
+    "categoryClass": "auto"
   },
   {
-    "1stAve Machine.png": "Orvis.png",
-    "1stAve Machine": "Orvis",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Orvis.png",
-    "Entertainment": "Commercial and Industrial",
-    "enter": "comm"
+    "imgName": "Oakridge National Laboratory.png",
+    "client": "Oakridge National Laboratory",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Oakridge-National-Laboratory.png",
+    "category": "Government",
+    "categoryClass": "gov"
   },
   {
-    "1stAve Machine.png": "Pair Networks.png",
-    "1stAve Machine": "Pair Networks",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Pair-Networks.png",
-    "Entertainment": "Web Services",
-    "enter": "webser"
+    "imgName": "Orvis.png",
+    "client": "Orvis",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Orvis.png",
+    "category": "Commercial and Industrial",
+    "categoryClass": "comm"
   },
   {
-    "1stAve Machine.png": "Palo Alto Networks.png",
-    "1stAve Machine": "Palo Alto Networks",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Palo-Alto-Networks.png",
-    "Entertainment": "High Tech",
-    "enter": "tech"
+    "imgName": "Pair Networks.png",
+    "client": "Pair Networks",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Pair-Networks.png",
+    "category": "Web Services",
+    "categoryClass": "webser"
   },
   {
-    "1stAve Machine.png": "Palo-Alto-Networks.png",
-    "1stAve Machine": "Palo-Alto-Networks",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Palo-Alto-Networks.png",
-    "Entertainment": "Manufacturing",
-    "enter": "manu"
+    "imgName": "Palo Alto Networks.png",
+    "client": "Palo Alto Networks",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Palo-Alto-Networks.png",
+    "category": "High Tech",
+    "categoryClass": "tech"
   },
   {
-    "1stAve Machine.png": "Peninsula Credit Union.jpg",
-    "1stAve Machine": "Peninsula Credit Union",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Peninsula-Credit-Union.jpg",
-    "Entertainment": "Financial",
-    "enter": "fin"
+    "imgName": "Palo-Alto-Networks.png",
+    "client": "Palo-Alto-Networks",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Palo-Alto-Networks.png",
+    "category": "Manufacturing",
+    "categoryClass": "manu"
   },
   {
-    "1stAve Machine.png": "Peppermill Casino.png",
-    "1stAve Machine": "Peppermill Casino",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Peppermill-Casino.png",
-    "Entertainment": "Entertainment",
-    "enter": "enter"
+    "imgName": "Peninsula Credit Union.jpg",
+    "client": "Peninsula Credit Union",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Peninsula-Credit-Union.jpg",
+    "category": "Financial",
+    "categoryClass": "fin"
   },
   {
-    "1stAve Machine.png": "Playboy Enterprises.png",
-    "1stAve Machine": "Playboy Enterprises",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Playboy-Enterprises.png",
-    "Entertainment": "Entertainment",
-    "enter": "enter"
+    "imgName": "Peppermill Casino.png",
+    "client": "Peppermill Casino",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Peppermill-Casino.png",
+    "category": "Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "Prime-Healthcare.png",
-    "1stAve Machine": "Prime-Healthcare",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Prime-Healthcare.png",
-    "Entertainment": "Healthcare",
-    "enter": "health"
+    "imgName": "Playboy Enterprises.png",
+    "client": "Playboy Enterprises",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Playboy-Enterprises.png",
+    "category": "Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "Raytheon.png",
-    "1stAve Machine": "Raytheon",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Raytheon.png",
-    "Entertainment": "Commercial and Industrial",
-    "enter": "comm"
+    "imgName": "Prime-Healthcare.png",
+    "client": "Prime-Healthcare",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Prime-Healthcare.png",
+    "category": "Healthcare",
+    "categoryClass": "health"
   },
   {
-    "1stAve Machine.png": "Raytheon-Technologies.png",
-    "1stAve Machine": "Raytheon-Technologies",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Raytheon-Technologies.png",
-    "Entertainment": "Government",
-    "enter": "gov"
+    "imgName": "Raytheon.png",
+    "client": "Raytheon",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Raytheon.png",
+    "category": "Commercial and Industrial",
+    "categoryClass": "comm"
   },
   {
-    "1stAve Machine.png": "Razer.png",
-    "1stAve Machine": "Razer",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Razer.png",
-    "Entertainment": "Gaming",
-    "enter": "gaming"
+    "imgName": "Raytheon-Technologies.png",
+    "client": "Raytheon-Technologies",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Raytheon-Technologies.png",
+    "category": "Government",
+    "categoryClass": "gov"
   },
   {
-    "1stAve Machine.png": "Rebellion-Developments.png",
-    "1stAve Machine": "Rebellion-Developments",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Rebellion-Developments.png",
-    "Entertainment": "Gaming",
-    "enter": "gaming"
+    "imgName": "Razer.png",
+    "client": "Razer",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Razer.png",
+    "category": "Gaming",
+    "categoryClass": "gaming"
   },
   {
-    "1stAve Machine.png": "Red Hat.png",
-    "1stAve Machine": "Red Hat",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Red-Hat.png",
-    "Entertainment": "High Tech",
-    "enter": "tech"
+    "imgName": "Rebellion-Developments.png",
+    "client": "Rebellion-Developments",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Rebellion-Developments.png",
+    "category": "Gaming",
+    "categoryClass": "gaming"
   },
   {
-    "1stAve Machine.png": "Ribometrix.png",
-    "1stAve Machine": "Ribometrix",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Ribometrix.png",
-    "Entertainment": "Healthcare",
-    "enter": "health"
+    "imgName": "Red Hat.png",
+    "client": "Red Hat",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Red-Hat.png",
+    "category": "High Tech",
+    "categoryClass": "tech"
   },
   {
-    "1stAve Machine.png": "Roche.png",
-    "1stAve Machine": "Roche",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Roche.png",
-    "Entertainment": "Healthcare",
-    "enter": "health"
+    "imgName": "Ribometrix.png",
+    "client": "Ribometrix",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Ribometrix.png",
+    "category": "Healthcare",
+    "categoryClass": "health"
   },
   {
-    "1stAve Machine.png": "Saint Lukes.png",
-    "1stAve Machine": "Saint Lukes",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Saint-Lukes.png",
-    "Entertainment": "Healthcare",
-    "enter": "health"
+    "imgName": "Roche.png",
+    "client": "Roche",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Roche.png",
+    "category": "Healthcare",
+    "categoryClass": "health"
   },
   {
-    "1stAve Machine.png": "Samsung.png",
-    "1stAve Machine": "Samsung",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Samsung.png",
-    "Entertainment": "High Tech",
-    "enter": "tech"
+    "imgName": "Saint Lukes.png",
+    "client": "Saint Lukes",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Saint-Lukes.png",
+    "category": "Healthcare",
+    "categoryClass": "health"
   },
   {
-    "1stAve Machine.png": "Sandvine.png",
-    "1stAve Machine": "Sandvine",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Sandvine.png",
-    "Entertainment": "Security and Defense",
-    "enter": "secdef"
+    "imgName": "Samsung.png",
+    "client": "Samsung",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Samsung.png",
+    "category": "High Tech",
+    "categoryClass": "tech"
   },
   {
-    "1stAve Machine.png": "Savings Bank of Mendocino County.jpg",
-    "1stAve Machine": "Savings Bank of Mendocino County",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Savings-Bank-of-Mendocino-County.jpg",
-    "Entertainment": "Financial",
-    "enter": "fin"
+    "imgName": "Sandvine.png",
+    "client": "Sandvine",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Sandvine.png",
+    "category": "Security and Defense",
+    "categoryClass": "secdef"
   },
   {
-    "1stAve Machine.png": "ScaleMatrix.png",
-    "1stAve Machine": "ScaleMatrix",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/ScaleMatrix.png",
-    "Entertainment": "Service Provider",
-    "enter": "service"
+    "imgName": "Savings Bank of Mendocino County.jpg",
+    "client": "Savings Bank of Mendocino County",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Savings-Bank-of-Mendocino-County.jpg",
+    "category": "Financial",
+    "categoryClass": "fin"
   },
   {
-    "1stAve Machine.png": "Schrodinger.png",
-    "1stAve Machine": "Schrodinger",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Schrodinger.png",
-    "Entertainment": "Research",
-    "enter": "research"
+    "imgName": "ScaleMatrix.png",
+    "client": "ScaleMatrix",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/ScaleMatrix.png",
+    "category": "Service Provider",
+    "categoryClass": "service"
   },
   {
-    "1stAve Machine.png": "Scripps Research Institute.png",
-    "1stAve Machine": "Scripps Research Institute",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Scripps-Research-Institute.png",
-    "Entertainment": "Healthcare",
-    "enter": "health"
+    "imgName": "Schrodinger.png",
+    "client": "Schrodinger",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Schrodinger.png",
+    "category": "Research",
+    "categoryClass": "research"
   },
   {
-    "1stAve Machine.png": "SEGA.png",
-    "1stAve Machine": "SEGA",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/SEGA.png",
-    "Entertainment": "Entertainment",
-    "enter": "enter"
+    "imgName": "Scripps Research Institute.png",
+    "client": "Scripps Research Institute",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Scripps-Research-Institute.png",
+    "category": "Healthcare",
+    "categoryClass": "health"
   },
   {
-    "1stAve Machine.png": "Sega.png",
-    "1stAve Machine": "Sega",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Sega.png",
-    "Entertainment": "Gaming",
-    "enter": "gaming"
+    "imgName": "SEGA.png",
+    "client": "SEGA",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/SEGA.png",
+    "category": "Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "Skywalker Sound.png",
-    "1stAve Machine": "Skywalker Sound",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Skywalker-Sound.png",
-    "Entertainment": "Entertainment",
-    "enter": "enter"
+    "imgName": "Sega.png",
+    "client": "Sega",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Sega.png",
+    "category": "Gaming",
+    "categoryClass": "gaming"
   },
   {
-    "1stAve Machine.png": "Skywalker-Sound.png",
-    "1stAve Machine": "Skywalker-Sound",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Skywalker-Sound.png",
-    "Entertainment": "Media & Entertainment",
-    "enter": "enter"
+    "imgName": "Skywalker Sound.png",
+    "client": "Skywalker Sound",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Skywalker-Sound.png",
+    "category": "Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "Slack.png",
-    "1stAve Machine": "Slack",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Slack.png",
-    "Entertainment": "Web Services",
-    "enter": "webser"
+    "imgName": "Skywalker-Sound.png",
+    "client": "Skywalker-Sound",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Skywalker-Sound.png",
+    "category": "Media & Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "Slack.png",
-    "1stAve Machine": "Slack",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Slack.png",
-    "Entertainment": "Service Provider",
-    "enter": "service"
+    "imgName": "Slack.png",
+    "client": "Slack",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Slack.png",
+    "category": "Web Services",
+    "categoryClass": "webser"
   },
   {
-    "1stAve Machine.png": "Smithsonean-Institution.png",
-    "1stAve Machine": "Smithsonean-Institution",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Smithsonean-Institution.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "Slack.png",
+    "client": "Slack",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Slack.png",
+    "category": "Service Provider",
+    "categoryClass": "service"
   },
   {
-    "1stAve Machine.png": "Sony.png",
-    "1stAve Machine": "Sony",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Sony.png",
-    "Entertainment": "Entertainment",
-    "enter": "enter"
+    "imgName": "Smithsonean-Institution.png",
+    "client": "Smithsonean-Institution",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Smithsonean-Institution.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "Sony.png",
-    "1stAve Machine": "Sony",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Sony.png",
-    "Entertainment": "Media & Entertainment",
-    "enter": "enter"
+    "imgName": "Sony.png",
+    "client": "Sony",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Sony.png",
+    "category": "Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "Splunk.png",
-    "1stAve Machine": "Splunk",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Splunk.png",
-    "Entertainment": "High Tech",
-    "enter": "tech"
+    "imgName": "Sony.png",
+    "client": "Sony",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Sony.png",
+    "category": "Media & Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "Stanford.png",
-    "1stAve Machine": "Stanford",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Stanford.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "Splunk.png",
+    "client": "Splunk",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Splunk.png",
+    "category": "High Tech",
+    "categoryClass": "tech"
   },
   {
-    "1stAve Machine.png": "Stanford-University.png",
-    "1stAve Machine": "Stanford-University",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Stanford-University.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "Stanford.png",
+    "client": "Stanford",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Stanford.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "State Farm.png",
-    "1stAve Machine": "State Farm",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/State-Farm.png",
-    "Entertainment": "Financial",
-    "enter": "fin"
+    "imgName": "Stanford-University.png",
+    "client": "Stanford-University",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Stanford-University.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "Strata Credit Union.png",
-    "1stAve Machine": "Strata Credit Union",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Strata-Credit-Union.png",
-    "Entertainment": "Financial",
-    "enter": "fin"
+    "imgName": "State Farm.png",
+    "client": "State Farm",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/State-Farm.png",
+    "category": "Financial",
+    "categoryClass": "fin"
   },
   {
-    "1stAve Machine.png": "Survey Monkey.png",
-    "1stAve Machine": "Survey Monkey",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Survey-Monkey.png",
-    "Entertainment": "Web Services",
-    "enter": "webser"
+    "imgName": "Strata Credit Union.png",
+    "client": "Strata Credit Union",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Strata-Credit-Union.png",
+    "category": "Financial",
+    "categoryClass": "fin"
   },
   {
-    "1stAve Machine.png": "Suzuki-Auto-South-Africa.png",
-    "1stAve Machine": "Suzuki-Auto-South-Africa",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Suzuki-Auto-South-Africa.png",
-    "Entertainment": "Automotive",
-    "enter": "auto"
+    "imgName": "Survey Monkey.png",
+    "client": "Survey Monkey",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Survey-Monkey.png",
+    "category": "Web Services",
+    "categoryClass": "webser"
   },
   {
-    "1stAve Machine.png": "Tallgrass-Energy.jpg",
-    "1stAve Machine": "Tallgrass-Energy",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Tallgrass-Energy.jpg",
-    "Entertainment": "Other",
-    "enter": "other"
+    "imgName": "Suzuki-Auto-South-Africa.png",
+    "client": "Suzuki-Auto-South-Africa",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Suzuki-Auto-South-Africa.png",
+    "category": "Automotive",
+    "categoryClass": "auto"
   },
   {
-    "1stAve Machine.png": "Tangent Animation.png",
-    "1stAve Machine": "Tangent Animation",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Tangent-Animation.png",
-    "Entertainment": "Entertainment",
-    "enter": "enter"
+    "imgName": "Tallgrass-Energy.jpg",
+    "client": "Tallgrass-Energy",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Tallgrass-Energy.jpg",
+    "category": "Other",
+    "categoryClass": "other"
   },
   {
-    "1stAve Machine.png": "Telefonica.png",
-    "1stAve Machine": "Telefonica",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Telefonica.png",
-    "Entertainment": "Service Provider",
-    "enter": "service"
+    "imgName": "Tangent Animation.png",
+    "client": "Tangent Animation",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Tangent-Animation.png",
+    "category": "Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "Tiltworks.png",
-    "1stAve Machine": "Tiltworks",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Tiltworks.png",
-    "Entertainment": "Web Services",
-    "enter": "webser"
+    "imgName": "Telefonica.png",
+    "client": "Telefonica",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Telefonica.png",
+    "category": "Service Provider",
+    "categoryClass": "service"
   },
   {
-    "1stAve Machine.png": "Twitch.png",
-    "1stAve Machine": "Twitch",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Twitch.png",
-    "Entertainment": "Web Services",
-    "enter": "webser"
+    "imgName": "Tiltworks.png",
+    "client": "Tiltworks",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Tiltworks.png",
+    "category": "Web Services",
+    "categoryClass": "webser"
   },
   {
-    "1stAve Machine.png": "Twitch.png",
-    "1stAve Machine": "Twitch",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Twitch.png",
-    "Entertainment": "Media & Entertainment",
-    "enter": "enter"
+    "imgName": "Twitch.png",
+    "client": "Twitch",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Twitch.png",
+    "category": "Web Services",
+    "categoryClass": "webser"
   },
   {
-    "1stAve Machine.png": "U.S.-International-Trade-Commission.png",
-    "1stAve Machine": "U.S.-International-Trade-Commission",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/U.S.-International-Trade-Commission.png",
-    "Entertainment": "Government",
-    "enter": "gov"
+    "imgName": "Twitch.png",
+    "client": "Twitch",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Twitch.png",
+    "category": "Media & Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "UC San Diego.png",
-    "1stAve Machine": "UC San Diego",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/UC-San-Diego.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "U.S.-International-Trade-Commission.png",
+    "client": "U.S.-International-Trade-Commission",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/U.S.-International-Trade-Commission.png",
+    "category": "Government",
+    "categoryClass": "gov"
   },
   {
-    "1stAve Machine.png": "UCSF.png",
-    "1stAve Machine": "UCSF",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/UCSF.png",
-    "Entertainment": "Healthcare",
-    "enter": "health"
+    "imgName": "UC San Diego.png",
+    "client": "UC San Diego",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/UC-San-Diego.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "Uniregistry.png",
-    "1stAve Machine": "Uniregistry",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Uniregistry.png",
-    "Entertainment": "Web Services",
-    "enter": "webser"
+    "imgName": "UCSF.png",
+    "client": "UCSF",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/UCSF.png",
+    "category": "Healthcare",
+    "categoryClass": "health"
   },
   {
-    "1stAve Machine.png": "United Nations.png",
-    "1stAve Machine": "United Nations",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/United-Nations.png",
-    "Entertainment": "Government",
-    "enter": "gov"
+    "imgName": "Uniregistry.png",
+    "client": "Uniregistry",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Uniregistry.png",
+    "category": "Web Services",
+    "categoryClass": "webser"
   },
   {
-    "1stAve Machine.png": "United-States-Marine-Corps.png",
-    "1stAve Machine": "United-States-Marine-Corps",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/United-States-Marine-Corps.png",
-    "Entertainment": "Government",
-    "enter": "gov"
+    "imgName": "United Nations.png",
+    "client": "United Nations",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/United-Nations.png",
+    "category": "Government",
+    "categoryClass": "gov"
   },
   {
-    "1stAve Machine.png": "University of Colorado.png",
-    "1stAve Machine": "University of Colorado",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/University-of-Colorado.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "United-States-Marine-Corps.png",
+    "client": "United-States-Marine-Corps",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/United-States-Marine-Corps.png",
+    "category": "Government",
+    "categoryClass": "gov"
   },
   {
-    "1stAve Machine.png": "University of Delaware.png",
-    "1stAve Machine": "University of Delaware",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/University-of-Delaware.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "University of Colorado.png",
+    "client": "University of Colorado",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/University-of-Colorado.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "University of Hawaii.png",
-    "1stAve Machine": "University of Hawaii",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/University-of-Hawaii.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "University of Delaware.png",
+    "client": "University of Delaware",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/University-of-Delaware.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "University of Massachusetts Amherst.png",
-    "1stAve Machine": "University of Massachusetts Amherst",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/University-of-Massachusetts-Amherst.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "University of Hawaii.png",
+    "client": "University of Hawaii",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/University-of-Hawaii.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "University of Utah.png",
-    "1stAve Machine": "University of Utah",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/University-of-Utah.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "University of Massachusetts Amherst.png",
+    "client": "University of Massachusetts Amherst",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/University-of-Massachusetts-Amherst.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "University of Washington.png",
-    "1stAve Machine": "University of Washington",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/University-of-Washington.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "University of Utah.png",
+    "client": "University of Utah",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/University-of-Utah.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "University of Winnipeg.png",
-    "1stAve Machine": "University of Winnipeg",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/University-of-Winnipeg.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "University of Washington.png",
+    "client": "University of Washington",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/University-of-Washington.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "University-of-Calilfornia-Berkeley.png",
-    "1stAve Machine": "University-of-Calilfornia-Berkeley",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/University-of-Calilfornia-Berkeley.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "University of Winnipeg.png",
+    "client": "University of Winnipeg",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/University-of-Winnipeg.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "University-of-Zurich.png",
-    "1stAve Machine": "University-of-Zurich",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/University-of-Zurich.png",
-    "Entertainment": "Research",
-    "enter": "research"
+    "imgName": "University-of-Calilfornia-Berkeley.png",
+    "client": "University-of-Calilfornia-Berkeley",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/University-of-Calilfornia-Berkeley.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "US-Army.png",
-    "1stAve Machine": "US-Army",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/US-Army.png",
-    "Entertainment": "Government",
-    "enter": "gov"
+    "imgName": "University-of-Zurich.png",
+    "client": "University-of-Zurich",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/University-of-Zurich.png",
+    "category": "Research",
+    "categoryClass": "research"
   },
   {
-    "1stAve Machine.png": "USRA.png",
-    "1stAve Machine": "USRA",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/USRA.png",
-    "Entertainment": "Government",
-    "enter": "gov"
+    "imgName": "US-Army.png",
+    "client": "US-Army",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/US-Army.png",
+    "category": "Government",
+    "categoryClass": "gov"
   },
   {
-    "1stAve Machine.png": "Valero.png",
-    "1stAve Machine": "Valero",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Valero.png",
-    "Entertainment": "Other",
-    "enter": "other"
+    "imgName": "USRA.png",
+    "client": "USRA",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/USRA.png",
+    "category": "Government",
+    "categoryClass": "gov"
   },
   {
-    "1stAve Machine.png": "Vanderbilt-University.png",
-    "1stAve Machine": "Vanderbilt-University",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Vanderbilt-University.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "Valero.png",
+    "client": "Valero",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Valero.png",
+    "category": "Other",
+    "categoryClass": "other"
   },
   {
-    "1stAve Machine.png": "Vector Lifting.jpg",
-    "1stAve Machine": "Vector Lifting",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Vector-Lifting.jpg",
-    "Entertainment": "Commercial and Industrial",
-    "enter": "comm"
+    "imgName": "Vanderbilt-University.png",
+    "client": "Vanderbilt-University",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Vanderbilt-University.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "ViacomCBS_Paramount.png",
-    "1stAve Machine": "ViacomCBS_Paramount",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/ViacomCBS_Paramount.png",
-    "Entertainment": "Media & Entertainment",
-    "enter": "enter"
+    "imgName": "Vector Lifting.jpg",
+    "client": "Vector Lifting",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Vector-Lifting.jpg",
+    "category": "Commercial and Industrial",
+    "categoryClass": "comm"
   },
   {
-    "1stAve Machine.png": "VIZ-Media.webp",
-    "1stAve Machine": "VIZ-Media.webp",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/VIZ-Media.webp",
-    "Entertainment": "Media & Entertainment",
-    "enter": "enter"
+    "imgName": "ViacomCBS_Paramount.png",
+    "client": "ViacomCBS_Paramount",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/ViacomCBS_Paramount.png",
+    "category": "Media & Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "VMware.png",
-    "1stAve Machine": "VMware",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/VMware.png",
-    "Entertainment": "High Tech",
-    "enter": "tech"
+    "imgName": "VIZ-Media.webp",
+    "client": "VIZ-Media.webp",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/VIZ-Media.webp",
+    "category": "Media & Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "VMWare.png",
-    "1stAve Machine": "VMWare",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/VMWare.png",
-    "Entertainment": "Service Provider",
-    "enter": "service"
+    "imgName": "VMware.png",
+    "client": "VMware",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/VMware.png",
+    "category": "High Tech",
+    "categoryClass": "tech"
   },
   {
-    "1stAve Machine.png": "Volvo-Cars.png",
-    "1stAve Machine": "Volvo-Cars",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Volvo-Cars.png",
-    "Entertainment": "Automotive",
-    "enter": "auto"
+    "imgName": "VMWare.png",
+    "client": "VMWare",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/VMWare.png",
+    "category": "Service Provider",
+    "categoryClass": "service"
   },
   {
-    "1stAve Machine.png": "Vricon.png",
-    "1stAve Machine": "Vricon",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Vricon.png",
-    "Entertainment": "Security and Defense",
-    "enter": "secdef"
+    "imgName": "Volvo-Cars.png",
+    "client": "Volvo-Cars",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Volvo-Cars.png",
+    "category": "Automotive",
+    "categoryClass": "auto"
   },
   {
-    "1stAve Machine.png": "Warner-Bros.-Discovery.png",
-    "1stAve Machine": "Warner-Bros.-Discovery",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Warner-Bros.-Discovery.png",
-    "Entertainment": "Media & Entertainment",
-    "enter": "enter"
+    "imgName": "Vricon.png",
+    "client": "Vricon",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Vricon.png",
+    "category": "Security and Defense",
+    "categoryClass": "secdef"
   },
   {
-    "1stAve Machine.png": "Warwick University.png",
-    "1stAve Machine": "Warwick University",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Warwick-University.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "Warner-Bros.-Discovery.png",
+    "client": "Warner-Bros.-Discovery",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Warner-Bros.-Discovery.png",
+    "category": "Media & Entertainment",
+    "categoryClass": "enter"
   },
   {
-    "1stAve Machine.png": "Warwick-University.png",
-    "1stAve Machine": "Warwick-University",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Warwick-University.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "Warwick University.png",
+    "client": "Warwick University",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Warwick-University.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "WD.png",
-    "1stAve Machine": "Western Digital",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2022/11/WD.png",
-    "Entertainment": "High Tech",
-    "enter": "tech"
+    "imgName": "Warwick-University.png",
+    "client": "Warwick-University",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Warwick-University.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "WH Trading.png",
-    "1stAve Machine": "WH Trading",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/WH-Trading.png",
-    "Entertainment": "Financial",
-    "enter": "fin"
+    "imgName": "WD.png",
+    "client": "Western Digital",
+    "URL": "https://www.truenas.com/wp-content/uploads/2022/11/WD.png",
+    "category": "High Tech",
+    "categoryClass": "tech"
   },
   {
-    "1stAve Machine.png": "Worldstream-IT-Infrastructures.png",
-    "1stAve Machine": "Worldstream-IT-Infrastructures",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Worldstream-IT-Infrastructures.png",
-    "Entertainment": "Service Provider",
-    "enter": "service"
+    "imgName": "WH Trading.png",
+    "client": "WH Trading",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/WH-Trading.png",
+    "category": "Financial",
+    "categoryClass": "fin"
   },
   {
-    "1stAve Machine.png": "Yale.png",
-    "1stAve Machine": "Yale",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2021/10/Yale.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "Worldstream-IT-Infrastructures.png",
+    "client": "Worldstream-IT-Infrastructures",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Worldstream-IT-Infrastructures.png",
+    "category": "Service Provider",
+    "categoryClass": "service"
   },
   {
-    "1stAve Machine.png": "Yale-University.png",
-    "1stAve Machine": "Yale-University",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Yale-University.png",
-    "Entertainment": "Education",
-    "enter": "edu"
+    "imgName": "Yale.png",
+    "client": "Yale",
+    "URL": "https://www.truenas.com/wp-content/uploads/2021/10/Yale.png",
+    "category": "Education",
+    "categoryClass": "edu"
   },
   {
-    "1stAve Machine.png": "Zoox.png",
-    "1stAve Machine": "Zoox",
-    "https://www.truenas.com/wp-content/uploads/2021/10/1stAve-Machine.png": "https://www.truenas.com/wp-content/uploads/2023/07/Zoox.png",
-    "Entertainment": "Automotive",
-    "enter": "auto"
+    "imgName": "Yale-University.png",
+    "client": "Yale-University",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Yale-University.png",
+    "category": "Education",
+    "categoryClass": "edu"
+  },
+  {
+    "imgName": "Zoox.png",
+    "client": "Zoox",
+    "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Zoox.png",
+    "category": "Automotive",
+    "categoryClass": "auto"
   }
 ]
