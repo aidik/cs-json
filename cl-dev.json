@@ -525,6 +525,13 @@
     "categoryClass": "manu"
   },
   {
+    "imgName": "Prime_logo.png",
+    "client": "Amazon Prime",
+    "URL": "https://www.truenas.com/wp-content/uploads/2025/10/Prime_logo.png",
+    "category": "Media & Entertainment",
+    "categoryClass": "enter"
+  },
+  {
     "imgName": "Prime-Healthcare.png",
     "client": "Prime-Healthcare",
     "URL": "https://www.truenas.com/wp-content/uploads/2023/07/Prime-Healthcare.png",
