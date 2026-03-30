@@ -110,6 +110,17 @@
     "URL": ""
   },
   {
+    "Title": "Clockwork9",
+    "Subtitle": "",
+    "Solution": "Performance, Collaboration, Scalability, Support",
+    "Category 1": "media-entertainment",
+    "Category 2": "",
+    "imported": "Y",
+    "dFlip link": "",
+    "Image link": "https://www.truenas.com/wp-content/uploads/2026/03/logo-c9-grey.svg",
+    "URL": "https://www.truenas.com/case-studies/clockwork/"
+  },  
+  {
     "Title": "Creative Integrations",
     "Subtitle": "",
     "Solution": "Management, Automation, Support, Scalability",
@@ -252,6 +263,28 @@
     "Image link": "https://www.truenas.com/wp-content/uploads/2021/09/NativeX.jpg",
     "URL": ""
   },
+  {
+    "Title": "NIST",
+    "Subtitle": "",
+    "Solution": "Virtualization, Backup & HA/DR, Compliance, Cost Savings",
+    "Category 1": "government",
+    "Category 2": "",
+    "imported": "Y",
+    "dFlip link": "",
+    "Image link": "https://www.truenas.com/wp-content/uploads/2026/03/NIST-Logo-Brand-White.svg",
+    "URL": "https://www.truenas.com/case-studies/nist/"
+  },
+  {
+    "Title": "Pixel Farm",
+    "Subtitle": "",
+    "Solution": "Performance, Scalability, Collaboration, Flexibility",
+    "Category 1": "media-entertainment",
+    "Category 2": "",
+    "imported": "Y",
+    "dFlip link": "",
+    "Image link": "https://www.truenas.com/wp-content/uploads/2026/03/Pixel-Farm-White.png",
+    "URL": "https://www.truenas.com/case-studies/pixel-farm/"
+  },  
   {
     "Title": "Squiz",
     "Subtitle": "",
@@ -406,6 +439,17 @@
     "Image link": "https://www.truenas.com/wp-content/uploads/2021/09/USCourt.jpg",
     "URL": ""
   },
+  {
+    "Title": "Vanderbilt University",
+    "Subtitle": "",
+    "Solution": "Scalability, Performance, Backup & HA/DR, Cost Savings",
+    "Category 1": "education",
+    "Category 2": "",
+    "imported": "Y",
+    "dFlip link": "",
+    "Image link": "https://www.truenas.com/wp-content/uploads/2026/03/Vanderbilt.svg",
+    "URL": "https://www.truenas.com/case-studies/vanderbilt-university/"
+ },  
   {
     "Title": "VIZ Media",
     "Subtitle": "",
