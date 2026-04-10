@@ -117,7 +117,7 @@
     "Category 2": "",
     "imported": "Y",
     "dFlip link": "",
-    "Image link": "https://www.truenas.com/wp-content/uploads/2026/04/AdobeStock_540534766-scaled.jpeg",
+    "Image link": "https://www.truenas.com/wp-content/uploads/2026/04/Clockwork_9_Case_Study_Image_AdobeStock_540534766.png",
     "URL": "https://www.truenas.com/case-studies/clockwork/"
   },  
   {
@@ -253,6 +253,17 @@
     "URL": ""
   },
   {
+     "Title": "McLean Hospital",
+     "Subtitle": "",
+     "Solution": "Automation, Backup & HA/DR, Cost Savings, Management",
+     "Category 1": "medical",
+     "Category 2": "",
+     "imported": "Y",
+     "dFlip link": "",
+     "Image link": "https://www.truenas.com/wp-content/uploads/2026/04/McLean_Hospital_Case_Study_Image_AdobeStock_505903389.png",
+     "URL": "https://www.truenas.com/case-studies/mclean-hospital/"
+  },
+  {
     "Title": "NativeX",
     "Subtitle": "",
     "Solution": "Scalability, Backup & HA/DR, Data Protection",
@@ -271,7 +282,7 @@
     "Category 2": "",
     "imported": "Y",
     "dFlip link": "",
-    "Image link": "https://www.truenas.com/wp-content/uploads/2026/04/AdobeStock_642102009-scaled.jpeg",
+    "Image link": "https://www.truenas.com/wp-content/uploads/2026/04/NIST_Case_Study_Image_AdobeStock_642102009.png",
     "URL": "https://www.truenas.com/case-studies/nist/"
   },
   {
@@ -282,7 +293,7 @@
     "Category 2": "",
     "imported": "Y",
     "dFlip link": "",
-    "Image link": "https://www.truenas.com/wp-content/uploads/2026/04/AdobeStock_749088661-scaled.jpeg",
+    "Image link": "https://www.truenas.com/wp-content/uploads/2026/04/Pixel_Farm_Case_Study_Image_AdobeStock_749088661.png",
     "URL": "https://www.truenas.com/case-studies/pixel-farm/"
   },  
   {
@@ -447,7 +458,7 @@
     "Category 2": "",
     "imported": "Y",
     "dFlip link": "",
-    "Image link": "https://www.truenas.com/wp-content/uploads/2026/04/AdobeStock_1867354572-scaled.jpeg",
+    "Image link": "https://www.truenas.com/wp-content/uploads/2026/04/Vanderbilt_Case_Study_Image_AdobeStock_1867354572.png",
     "URL": "https://www.truenas.com/case-studies/vanderbilt-university/"
  },  
   {
