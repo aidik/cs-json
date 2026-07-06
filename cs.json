@@ -504,5 +504,16 @@
     "dFlip link": "",
     "Image link": "https://www.truenas.com/wp-content/uploads/2023/10/VizMedia_thumb.jpg",
     "URL": "https://www.truenas.com/case-studies/viz-media-case-study/"
+  },
+  {
+    "Title": "UCI School of Medicine Research IT",
+    "Subtitle": "",
+    "Solution": "Scalability, Consolidation, Data Protection, Performance",
+    "Category 1": "education",
+    "Category 2": "medical",
+    "imported": "Y",
+    "dFlip link": "",
+    "Image link": "https://www.truenas.com/wp-content/uploads/2026/06/UCI_Reseearch_Case_Study_Image.png",
+    "URL": "https://www.truenas.com/case-studies/uci-school-of-medicine-research-it/"    
   }
 ]
