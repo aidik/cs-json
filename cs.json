@@ -42,7 +42,7 @@
     "dFlip link": "",
     "Image link": "https://www.truenas.com/wp-content/uploads/2026/06/Anonymous_RD_Team_Case_Study_Image.png",
     "URL": "https://www.truenas.com/case-studies/global-rd-laboratories-replaced-dell/"
-  },  
+  },
   {
     "Title": "Ashland Food Co-op",
     "Subtitle": "",
@@ -119,7 +119,7 @@
     "dFlip link": "",
     "Image link": "https://www.truenas.com/wp-content/uploads/2026/04/Christian_Healthcare_Ministries_Case_Study_AdobeStock_466487806.png",
     "URL": "https://www.truenas.com/case-studies/christian-healthcare-ministries/"
-  },  
+  },
   {
     "Title": "ClickBank",
     "Subtitle": "",
@@ -141,7 +141,7 @@
     "dFlip link": "",
     "Image link": "https://www.truenas.com/wp-content/uploads/2026/04/Clockwork_9_Case_Study_Image_AdobeStock_540534766.png",
     "URL": "https://www.truenas.com/case-studies/clockwork/"
-  },  
+  },
   {
     "Title": "Creative Integrations",
     "Subtitle": "",
@@ -264,16 +264,16 @@
     "URL": ""
   },
   {
-     "Title": "Mass General Brigham, McLean Hospital",
-     "Subtitle": "",
-     "Solution": "Automation, Backup & HA/DR, Cost Savings, Management",
-     "Category 1": "medical",
-     "Category 2": "",
-     "imported": "Y",
-     "dFlip link": "",
-     "Image link": "https://www.truenas.com/wp-content/uploads/2026/04/McLean_Hospital_Case_Study_Image_AdobeStock_505903389.png",
-     "URL": "https://www.truenas.com/case-studies/mclean-hospital/"
-  },  
+    "Title": "Mass General Brigham, McLean Hospital",
+    "Subtitle": "",
+    "Solution": "Automation, Backup & HA/DR, Cost Savings, Management",
+    "Category 1": "medical",
+    "Category 2": "",
+    "imported": "Y",
+    "dFlip link": "",
+    "Image link": "https://www.truenas.com/wp-content/uploads/2026/04/McLean_Hospital_Case_Study_Image_AdobeStock_505903389.png",
+    "URL": "https://www.truenas.com/case-studies/mclean-hospital/"
+  },
   {
     "Title": "McGill University",
     "Subtitle": "",
@@ -295,7 +295,7 @@
     "dFlip link": "",
     "Image link": "https://www.truenas.com/wp-content/uploads/2026/06/Movisio_Case_Study_Image.png",
     "URL": "https://www.truenas.com/case-studies/movisio/"
-  },  
+  },
   {
     "Title": "NativeX",
     "Subtitle": "",
@@ -328,7 +328,7 @@
     "dFlip link": "",
     "Image link": "https://www.truenas.com/wp-content/uploads/2026/04/Pixel_Farm_Case_Study_Image_AdobeStock_749088661.png",
     "URL": "https://www.truenas.com/case-studies/pixel-farm/"
-  },  
+  },
   {
     "Title": "Squiz",
     "Subtitle": "",
@@ -427,7 +427,7 @@
     "dFlip link": "",
     "Image link": "https://www.truenas.com/wp-content/uploads/2023/11/Threathunter-ai_Audio_Case_Study_Image_498x332.jpg",
     "URL": "https://www.truenas.com/case-studies/threathunter-ai-case-study/"
-  },  
+  },
   {
     "Title": "Trussworks LLC",
     "Subtitle": "",
@@ -438,7 +438,18 @@
     "dFlip link": "",
     "Image link": "https://www.truenas.com/wp-content/uploads/2023/10/Trussworks-LLC_image_CS_Overview_page.jpg",
     "URL": "https://www.truenas.com/case-studies/trussworks-llc-case-study/"
-  },  
+  },
+  {
+    "Title": "UCI School of Medicine Research IT",
+    "Subtitle": "",
+    "Solution": "Scalability, Consolidation, Data Protection, Performance",
+    "Category 1": "education",
+    "Category 2": "medical",
+    "imported": "Y",
+    "dFlip link": "",
+    "Image link": "https://www.truenas.com/wp-content/uploads/2026/06/UCI_Reseearch_Case_Study_Image.png",
+    "URL": "https://www.truenas.com/case-studies/uci-school-of-medicine-research-it/"
+  },
   {
     "Title": "UCSD",
     "Subtitle": "",
@@ -451,17 +462,6 @@
     "URL": ""
   },
   {
-    "Title": "University of Florida",
-    "Subtitle": "",
-    "Solution": "Unified, Management, Scalability, Support, Economics",
-    "Category 1": "education",
-    "Category 2": "",
-    "imported": "Y",
-    "dFlip link": 71908,
-    "Image link": "https://www.truenas.com/wp-content/uploads/2021/09/UF.jpg",
-    "URL": ""
-  },
-  {
     "Title": "University College of London",
     "Subtitle": "",
     "Solution": "File Sharing, Performance, Scalability, Support",
@@ -471,6 +471,17 @@
     "dFlip link": 1366,
     "Image link": "https://www.truenas.com/wp-content/uploads/2024/02/ucl.jpg",
     "URL": "https://www.truenas.com/case-studies/ucl/"
+  },
+  {
+    "Title": "University of Florida",
+    "Subtitle": "",
+    "Solution": "Unified, Management, Scalability, Support, Economics",
+    "Category 1": "education",
+    "Category 2": "",
+    "imported": "Y",
+    "dFlip link": 71908,
+    "Image link": "https://www.truenas.com/wp-content/uploads/2021/09/UF.jpg",
+    "URL": ""
   },
   {
     "Title": "US Court",
@@ -493,7 +504,7 @@
     "dFlip link": "",
     "Image link": "https://www.truenas.com/wp-content/uploads/2026/04/Vanderbilt_Case_Study_Image_AdobeStock_1867354572.png",
     "URL": "https://www.truenas.com/case-studies/vanderbilt-university/"
- },  
+  },
   {
     "Title": "VIZ Media",
     "Subtitle": "",
@@ -504,16 +515,5 @@
     "dFlip link": "",
     "Image link": "https://www.truenas.com/wp-content/uploads/2023/10/VizMedia_thumb.jpg",
     "URL": "https://www.truenas.com/case-studies/viz-media-case-study/"
-  },
-  {
-    "Title": "UCI School of Medicine Research IT",
-    "Subtitle": "",
-    "Solution": "Scalability, Consolidation, Data Protection, Performance",
-    "Category 1": "education",
-    "Category 2": "medical",
-    "imported": "Y",
-    "dFlip link": "",
-    "Image link": "https://www.truenas.com/wp-content/uploads/2026/06/UCI_Reseearch_Case_Study_Image.png",
-    "URL": "https://www.truenas.com/case-studies/uci-school-of-medicine-research-it/"    
   }
 ]
