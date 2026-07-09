@@ -44,6 +44,17 @@
     "URL": "https://www.truenas.com/case-studies/global-rd-laboratories-replaced-dell/"
   },
   {
+    "Title": "Anonymous Research University",
+    "Subtitle": "",
+    "Solution": "Cost-Saving, Reliability, Security, Support",
+    "Category 1": "education",
+    "Category 2": "high-tech",
+    "imported": "Y",
+    "dFlip link": "",
+    "Image link": "https://www.truenas.com/wp-content/uploads/2026/07/Leading_Research_University_Case_Study_Image.png",
+    "URL": "https://www.truenas.com/case-studies/anonymous-research-university/"
+  },
+  {
     "Title": "Ashland Food Co-op",
     "Subtitle": "",
     "Solution": "Virtualization, Performance, Backup & HA/DR, Support",
@@ -99,7 +110,7 @@
     "URL": "https://www.truenas.com/case-studies/cambridge/"
   },
   {
-    "Title": "Children’s Hospitals and Clinics of Minnesota",
+    "Title": "Children\u2019s Hospitals and Clinics of Minnesota",
     "Subtitle": "",
     "Solution": "Performance, Administration, Data Protection, Scalability",
     "Category 1": "media-entertainment",
@@ -284,6 +295,17 @@
     "dFlip link": 71912,
     "Image link": "https://www.truenas.com/wp-content/uploads/2021/09/McGillUniversity.jpg",
     "URL": ""
+  },
+  {
+    "Title": "MoovIT",
+    "Subtitle": "",
+    "Solution": "Performance, Scalability, Flexibility, Cost-Saving",
+    "Category 1": "media-entertainment",
+    "Category 2": "",
+    "imported": "Y",
+    "dFlip link": "",
+    "Image link": "https://www.truenas.com/wp-content/uploads/2026/07/MoovIT_Case_Study_Image.png",
+    "URL": "https://www.truenas.com/case-studies/moovit/"
   },
   {
     "Title": "Movisio",
