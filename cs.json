@@ -586,5 +586,17 @@
     "Image link": "https://www.truenas.com/wp-content/uploads/2023/10/VizMedia_thumb.jpg",
     "URL": "https://www.truenas.com/case-studies/viz-media-case-study/",
     "Published At": 1695025714
-  }
+  },
+  {
+    "Title": "Wilson Tool",
+    "Subtitle": "",
+    "Solution": "Scalability, Performance, Backup & HA/DR, Cost-Saving",
+    "Category 1": "manufacturing",
+    "Category 2": "",
+    "imported": "Y",
+    "dFlip link": "",
+    "Image link": "https://www.truenas.com/wp-content/uploads/2026/08/Wilson_Tool_Case_Study_Image.png",
+    "URL": "https://www.truenas.com/case-studies/wilson-tool/",
+    "Published At": 1787776103
+  }  
 ]
